@@ -53,9 +53,9 @@ Begin {
 
 
     # Micare Digitis (Flashing of Fingers) - Roman
-    $definition_micare_digitis = "In 'Micare Digitis' (Flashing of Fingers) each participant shows zero to five fingers after a synchronized countdown, which consists of one to three pre-steps (i.e. 1-signal to 3-2-1-signal), has elapsed. It is essential for the flow of the game for all participants (1) to know the number of pre-steps, for them to be certain, on which count the finger(s) shall be shown and (2) then to be in the same rhythm before the handsign is signalled. If at any time the players are not in synch with their pre-steps (primes), it is recommended to restart the game, since having players deliver their throw at the same time is critical in ensuring a fair match. For fairness of the play, it is recommended to agree before the playing begins on the number of rounds a participant must guess correctly (or points achieve) in order to win the match ('Micare Digitis' is usually played in a tournament-mode). In 'Micare Digitis' at the same when a hand sign is signalled also a number, which should represent the participants guess of the total number of fingers shown on the current round, is pronounced (usually a number ranging from zero to ten is uttered). This guess is validated correct or false by the total number of fingers that can be seen. In 'Micare Digitis' ties (draws), where the participants pronounce the same number as a result that is validated as correct, per se, cannot be broken, but the occured 'Tie-Break Situation' is usually resolved by playing another round of 'Micare Digitis' immediately after the existence of 'Tie-Break Situation' has been confirmed. After each round, however, the fingers are counted to see, if anyone guessed the total number of fingers correctly. If one of the participants guessed correctly, that person wins the round, and one point is awarded to that (lucky) player. If no one guessed the right number then nobody wins that round, and no points are awarded for that round. If all participants guessed the correct answer, then it is a draw ('Tie-Break Situation') and nobody gets credit for winning the round, and no points are awarded for that round. The play continues until one of the participants reaches the number of rounds won (or points) needed to win the match."
+    $definition_micare_digitis = "In 'Micare Digitis' (Flashing of Fingers) each participant shows zero to five fingers after a synchronized countdown, which consists of one to three pre-steps (i.e. 1-signal to 3-2-1-signal), has elapsed. It is essential for the flow of the game for all participants (1) to know the number of pre-steps, for them to be certain, on which count the finger(s) shall be shown and (2) then to be in the same rhythm before the handsign is signalled. If at any time the players are not in synch with their pre-steps (primes), it is recommended to restart the game, since having players deliver their throw at the same time is critical in ensuring a fair match. For fairness of the play, it is recommended to agree before the playing begins on the number of rounds a participant must guess correctly (or points achieve) in order to win the match ('Micare Digitis' is usually played in a tournament-mode). In 'Micare Digitis' at the same time when a hand sign is signalled also a number, which should represent the participants guess of the total number of fingers shown on the current round, is pronounced (usually a number ranging from zero to ten is uttered). This guess is validated correct or false by the total number of fingers that can be seen. In 'Micare Digitis' ties (draws), where the participants pronounce the same number as a result that is validated as correct, per se, cannot be broken, but the occured 'Tie-Break Situation' is usually resolved by playing another round of 'Micare Digitis' immediately after the existence of 'Tie-Break Situation' has been confirmed. After each round, however, the fingers are counted to see, if anyone guessed the total number of fingers correctly. If one of the participants guessed correctly, that person wins the round, and one point is awarded to that (lucky) player. If no one guessed the right number then nobody wins that round, and no points are awarded for that round. If all participants guessed the correct answer, then it is a draw ('Tie-Break Situation') and nobody gets credit for winning the round, and no points are awarded for that round. The play continues until one of the participants reaches the number of rounds won (or points) needed to win the match."
 
-    $help_text_micare_digitis = "In 'Micare Digitis' the hand-signs are signalled with a primary hand (by extending the fingers, if any), while the secondary hand is kept out of sight, usually behind one's back. The secondary hand is usually used to count the current personal score (i.e. the number of rounds won). In 'Micare Digitis', when signalling the number three, it is customary to use a similar hand sign to what is seen the NBA referees using while indicating a three-point-shot-attempt, where index finger is curved beside the thumb while the last three digits remain straight. When signalling the 'Zero' or 'no fingers' in 'Micare Digitis', the extended hand is accompanied with a closed fist in a similar fashion to the 'Rock' in 'Rock-paper-scissors'. Source: http://www.appalachianhistory.net/2011/09/only-play-this-game-with-honest-man.html"
+    $help_text_micare_digitis = "In 'Micare Digitis' the hand-signs are signalled with a primary hand (by extending the fingers, if any), while the secondary hand is kept out of sight, usually behind one's back. The secondary hand is usually used to count the current personal score (i.e. the number of rounds won). In 'Micare Digitis', when signalling the number three, it might be customary to use a similar hand sign to what is seen the NBA referees using while indicating a three-point-shot-attempt, where index finger is curved beside the thumb while the last three digits remain straight. When signalling the 'Zero' or 'no fingers' in 'Micare Digitis', the extended hand is accompanied with a closed fist in a similar fashion to the 'Rock' in 'Rock-paper-scissors'. Source: http://www.appalachianhistory.net/2011/09/only-play-this-game-with-honest-man.html"
 
 
 
@@ -506,7 +506,7 @@ Championships.
         3.0     The Outcome of play is determined by the following
 
 
-                    Rock wins against Scissors,
+                    Rock wins against Scissors
                     Scissors wins against Paper
                     Paper wins against Rock
 
@@ -519,9 +519,9 @@ opponent's throw. If each player makes the same throw, the round is a stalemate,
 and must be replayed.
 
 
-        Paper wins against Rock     ("paper covers rock"),
-        Rock wins against Scissors  ("rock crushes or dulls the scissors"), and
-        Scissors wins against Paper ("scissors cut paper").
+        Paper wins against Rock     ("Paper covers rock")
+        Rock wins against Scissors  ("Rock dulls or crushes the scissors")
+        Scissors wins against Paper ("Scissors cut paper")
 
 
 The Pre-Steps (prime) – The Approach – The Delivery
@@ -590,7 +590,7 @@ Source:     http://worldrps.com/game-basics/
                                                   __/ |
                                                  |___/
 
-Write-Verbose "Shoushiling (Shoushìlìng: traditional Chinese: 手勢令; litterally: 'hand command')" -verbose
+Write-Verbose "Shoushiling (Shoushìlìng: traditional Chinese: 手勢令; literally: 'hand command')" -verbose
 
 
 Shoushiling 手勢令 ('hand command') - Chinese
@@ -613,7 +613,7 @@ Frog                The frog (wa 蛙) is a symbol of fertility because it has th
 
 Centipede           The centipede (wu 蜈蚣) is a poisonous small, long, thin animal
                     with many legs and was believed to be capable of killing a
-                    snake.
+                    snake. A member of the "Five Poisons".
 
 
 Classic 'Shoushiling' (手勢令) - Chinese
@@ -684,9 +684,9 @@ The Dragon                  (ryuu                   | 🐲)   (りゅう        
 Source:     http://jisho.org/word/%E8%9B%9E%E8%9D%93
             http://jisho.org/word/%E8%9B%99
             http://jisho.org/word/%E8%9B%87
-            http://www.nihongodict.com/w/31005/hebi/
-            http://www.nihongodict.com/w/55784/kaeru/
             http://www.nihongodict.com/w/55269/namekuji/
+            http://www.nihongodict.com/w/55784/kaeru/  
+            http://www.nihongodict.com/w/31005/hebi/                      
             https://japandaily.jp/decision-making-powers-janken-2626/
             Linhart, Sepp, and Sabine Frühstück: 'The Culture of Japan as Seen through Its Leisure': https://books.google.com/books?id=k_Cb7a6FQwwC&pg=PA325
             Linhart, Sepp (1995). 'Some Thoughts on the Ken Game in Japan: From the Viewpoint of Comparative Civilization Studies. Senri Ethnological Studies 40: 101-124. http://tinyurl.com/zju37c2
@@ -722,7 +722,7 @@ chance and as a mode of deciding doubtful matters. This game later evolved into
 In antiquity within the Roman cultural sphere, there was a commonly used proverb 
 said of a thoroughly honest person, which centered around the concept of 'micare 
 digitis' (dignus est, quicum in tenebris mices - 'So honest is this person, that 
-in the shadows could you play the game of 'micare digitis' with him/her'), since 
+in the shadows could you play the game of 'micare digitis' with him'), since 
 it would be so easy to cheat in this game when played in the dark. Usually this 
 proverb was used to describe men, however, since in its earliest forms 'micare 
 digitis' was almost exlusively played only by men.   
@@ -751,9 +751,9 @@ digitis' was almost exlusively played only by men.
 
 
 
-In the Satyricon, Petronius tells his readers about Trimalchio's dinner party and
-at that party Ganymedes, according to Petronius, tells the other guests about 
-Safinius, that...
+In the Satyricon, Gaius Petronius Arbiter (AD 27–66, a.k.a Petronius) tells his 
+readers about Trimalchio's dinner party and at that party Ganymedes, according to 
+Petronius, tells the other guests about Safinius, that...
 
 
                 Sed memini Safinium; tunc habitabat ad arcum veterem, me puero: 
@@ -769,7 +769,7 @@ Safinius, that...
                 confidently play 'mora' with in the dark.
 
 
-                (Petr. Satyr. 44. XLIV) Gaius Petronius Arbiter (AD 27–66, a.k.a Petronius)
+                (Petr. Satyr. 44. XLIV) Gaius Petronius Arbiter (AD 27–66, a.k.a Petronius):
                 'Petronii Satiricon Liber' XLIV (The Satyricon XLIV)
                 http://www.thelatinlibrary.com/petronius1.html
                 http://www.sacred-texts.com/cla/petro/satyr/sat08.htm#XLIV
@@ -865,7 +865,7 @@ Bibliography:
 Linhart, Sepp and Sabine Frühstück (1998):    'The Culture of Japan as Seen through Its Leisure'
                                               https://books.google.com/books?id=k_Cb7a6FQwwC&pg=PA325
 
-Linhart, Sepp (1995):   'Some Thoughts on the Ken Game in Japan: From the Viewpoint of Comparative Civilization Studies. 
+Linhart, Sepp (1995):   'Some Thoughts on the Ken Game in Japan: From the Viewpoint of Comparative Civilization Studies.' 
                         Senri Ethnological Studies 40: 101-124. http://tinyurl.com/zju37c2
                         https://minpaku.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=3017&item_no=1&page_id=13&block_id=21
 
@@ -948,10 +948,13 @@ bars and a value of 178 is a reasonable responsive UX without any progress bars.
 The default value is 3030, which shows the result after roughly three seconds and
 displays a progress bar to count down the time and equals to three pre-steps
 (primes) i.e. 3-2-1-signal. To get the result instantly, please set the value of
-parameter -Delay to number zero (-Delay 0). The threshold level for the delay,
-above which additional instructions to cancel the countdown are displayed is
-defined on line 29 with the $delay_notify_threshold variable (in milliseconds).
-The usage of fractions of milliseconds with the -Delay parameter is not supported.
+parameter -Delay to number zero (-Delay 0). To get the result after two pre-steps, 
+(primes) i.e. 2-1-signal, please set the value of -Delay parameter between 2000 
+and 2499 (where the value above 2000 is defining, how long should it take, before 
+the countdown from two commences). The threshold level for the delay, above which 
+additional instructions to cancel the countdown are displayed is defined on line 
+29 with the $delay_notify_threshold variable (in milliseconds). The usage of 
+fractions of milliseconds with the -Delay parameter is not supported.
 
 .PARAMETER Help
 To see the the rules of a game, a parameter -Help (which has the aliases of -Text
@@ -997,8 +1000,9 @@ Generates an output of a selected game in console. Displays a progress bar, if
 Please note that each of the parameters can be "tab completed" before typing them
 fully (by pressing the [tab] key, not including the aliases).
 
-Please note that the other games than 'Rock-paper-scissors' cannot effectively be
-played at the same time due to the radically different nature of the games.
+Please note that only one game type at a time (-Chinese, -Japanese, -Roman or 
+'Rock-paper-scissors') may be selected to play in one round due to the radically 
+different nature of the games.
 
 Please see the Description section below for definitions of each game.
 
@@ -1192,7 +1196,7 @@ Please see the Description section below for definitions of each game.
                             number of rounds a participant must guess correctly (or
                             points achieve) in order to win the match ('Micare
                             Digitis' is usually played in a tournament-mode). In
-                            'Micare Digitis' at the same when a hand sign is
+                            'Micare Digitis' at the same time when a hand sign is
                             signalled also a number, which should represent the
                             participants guess of the total number of fingers shown
                             on the current round, is pronounced (usually a number
@@ -1224,9 +1228,9 @@ Please see the Description section below for definitions of each game.
                             one's back. The secondary hand is usually used to count
                             the current personal score (i.e. the number of rounds
                             won). In 'Micare Digitis', when signalling the number
-                            three, it is customary to use a similar hand sign to
-                            what is seen the NBA referees using while indicating a
-                            three-point-shot-attempt, where index finger is curved
+                            three, it might be customary to use a similar hand sign 
+                            to what is seen the NBA referees using while indicating 
+                            a three-point-shot-attempt, where index finger is curved
                             beside the thumb while the last three digits remain
                             straight. When signalling the 'Zero' or 'no fingers' in
                             'Micare Digitis', the extended hand is accompanied with
@@ -1279,9 +1283,9 @@ Please see the Description section below for definitions of each game.
 
 
 
-    (4) British: n=45 participants, divided into groups of three and each triads 
-        were required to play nine matches of RPS, each comprising 20 individual 
-        rounds.
+    (4) British: n=45 participants, while either one or both players were 
+        blindfolded, divided into groups of three and each triads were required to
+        play nine matches of RPS, each comprising 20 individual rounds.
 
                                     Rock        Paper       Scissors
                                     ----        -----       --------
@@ -1405,5 +1409,12 @@ http://www.forumromanum.org/literature/menippeae.html
 https://archive.org/stream/satiraeetliberpr00petruoft/satiraeetliberpr00petruoft_djvu.txt
 https://archive.org/stream/mterentiusvarro00oehlgoog/mterentiusvarro00oehlgoog_djvu.txt
 http://www.philological.bham.ac.uk/polyadag/1alat.html
+https://community.spiceworks.com/scripts/show/1712-start-countdown
+http://stackoverflow.com/questions/10941756/powershell-show-elapsed-time
+https://technet.microsoft.com/en-us/library/hh847743.aspx
+http://poshcode.org/1192
+https://technet.microsoft.com/en-us/library/hh847796.aspx
+https://technet.microsoft.com/en-us/magazine/hh360993.aspx
+https://technet.microsoft.com/en-us/library/ee692803.aspx
 
 #>
