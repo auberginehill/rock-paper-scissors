@@ -955,7 +955,7 @@
                                         <br /><a href="http://www.gutenberg.org/files/47001/47001-h/47001-h.htm">De Officiis by Marcus Tullius Cicero 3.23.89–90</a> (Latin and English)
                                         <br /><a href="https://ia601403.us.archive.org/27/items/mtulliuscicerod00cicegoog/mtulliuscicerod00cicegoog.pdf">M. Tullius Cicero, De Officiis 3.23.89–90</a> (PDF, 5,7 MB) (Latin)
                                         <br /><ol><ol><ol>
-                                            Sim. <a href="http://www.perseus.tufts.edu/hopper/text?doc=Cic.+Off.+3.89&fromdoc=Perseus%3Atext%3A2007.01.0047">M. Tullius Cicero, De Officiis 3.77</a> Walter Miller, 1913. (Latin)
+                                            Sim. <a href="http://www.perseus.tufts.edu/hopper/text?doc=Cic.+Off.+3.89&fromdoc=Perseus%3Atext%3A2007.01.0047">M. Tullius Cicero, De Officiis 3.89–90</a> Walter Miller, 1913. (Latin)
                                         </ol></ol></ol>
                                     </p>
                                 </blockquote>
