@@ -996,83 +996,7 @@
                     </ol>
                 </ol>
             </ol>
-            <p>As Marcus Tullius Cicero (106–43 BC, a.k.a. Κικέρων) pointed out, the proverb concerning playing '<i>micare digitis</i>' in the dark was already quite old in his time (Cic. Off. 3.19.77), furthermore in another part of '<i>De Officiis</i>' he seems to be indicating that the praxis of '<i>micare digitis</i>' was not unknown to the Greek either, when he is discussing the works of <b>Ἑκάτων</b> (c. first-second century BC, a.k.a. Hecaton of Rhodes, a.k.a. Hecaton) (Cic. Off. 3.23.89–90):</p>
-            <ol>
-                <ol>
-                    <ol>
-                        <ol>
-                            <ol>
-                                <blockquote>
-                                    <p><i>Plenus est sextus liber de officiis <b>Hecatonis</b> talium quaestionum:
-                                    <br />(...)
-                                    <br />"Quid? si una tabula sit, duo naufragi, eique sapientes, sibine uterque rapiat, an alter cedat alteri?"
-                                    <br /></i><b>Ἑκάτων:</b><i> "Cedat vero, sed ei, cuius magis intersit vel sua vel rei publicae causa vivere."
-                                    <br />"Quid, si haec paria in utroque?"
-                                    <br /></i><b>Ἑκάτων:</b><i> "Nullum erit certamen, sed quasi sorte aut micando victus alteri cedet alter."</i></p>
-                                    <p>
-                                        (Cic. Off. 3.23.89–90) <b>Marcus Tullius Cicero</b> a.k.a. Κικέρων, (106–43 BC): 'De Officiis' 3.23.89–90
-                                        <br /><a href="http://www.gutenberg.org/files/47001/47001-h/47001-h.htm">De Officiis by Marcus Tullius Cicero 3.23.89–90</a> (Latin and English)
-                                        <br /><a href="https://ia601403.us.archive.org/27/items/mtulliuscicerod00cicegoog/mtulliuscicerod00cicegoog.pdf">M. Tullius Cicero, De Officiis 3.23.89–90</a> (PDF, 5.7 MB) (Latin)
-                                        <br /><ol><ol><ol>
-                                            Sim. <a href="http://www.perseus.tufts.edu/hopper/text?doc=Cic.+Off.+3.89&fromdoc=Perseus%3Atext%3A2007.01.0047">M. Tullius Cicero, De Officiis 3.89–90</a> Walter Miller, 1913. (Latin)
-                                        </ol></ol></ol>
-                                    </p>
-                                </blockquote>
-                                <h4>Translation</h4>
-                                <blockquote>
-                                    <p>The sixth book of of the Stoic philosopher <b>Hecaton</b>'s "Moral Duties" is full of questions like the following:
-                                    <br />(...)
-                                    <br />"Again; suppose there were two to be saved from the sinking ship—both of them wise men—and only one small plank, should both seize it to save themselves? Or should one give place to the other?"
-                                    <br /><b>Hecaton:</b> "Why of course, one should give place to the other, but that other must be the one whose life is more valuable either for his own sake or for that of his country."
-                                    <br />"But what if these considerations are of equal weight in both?"
-                                    <br /><b>Hecaton:</b> "Then there will be no contest, but one will give place to the other, as if the point were decided by lot or at a game of odd and even."</p>
-                                    <p>
-                                        (Cic. Off. 3.23.89–90) <b>Marcus Tullius Cicero</b> a.k.a. Κικέρων, (106–43 BC): 'De Officiis' 3.23.89–90
-                                        <br /><a href="http://www.gutenberg.org/files/47001/47001-h/47001-h.htm">De Officiis by Marcus Tullius Cicero 3.23.89–90</a> (Latin and English)
-                                        <br /><a href="https://ia601403.us.archive.org/27/items/mtulliuscicerod00cicegoog/mtulliuscicerod00cicegoog.pdf">M. Tullius Cicero, De Officiis 3.23.89–90</a> (PDF, 5.7 MB) (Latin)
-                                        <br /><ol><ol><ol>
-                                            Sim. <a href="http://www.perseus.tufts.edu/hopper/text?doc=Cic.+Off.+3.89&fromdoc=Perseus%3Atext%3A2007.01.0047">M. Tullius Cicero, De Officiis 3.89–90</a> Walter Miller, 1913. (Latin)
-                                        </ol></ol></ol>
-                                    </p>
-                                </blockquote>
-                            </ol>
-                        </ol>
-                    </ol>
-                </ol>
-            </ol>
-            <p>A Roman scholar and writer Marcus Terentius Varro (116–27 BC, a.k.a. Varro Reatinus a.k.a. Varro) is indeed confirming, that '<i>micare digitis</i>' is known in the realm of ancient Greece, too, in one of the fragments of <i>Menippean Satires</i></p>
-            <ol>
-                <ol>
-                    <ol>
-                        <ol>
-                            <ol>
-                                <blockquote>
-                                    <p><i>Micandum erit cum Graeco, utrum ego illius numerum an ille meum sequatur.</i></p>
-                                    <p>
-                                        <b>Marcus Terentius Varro</b> (116–27 BC, a.k.a. Varro Reatinus a.k.a. Varro): 'M. Terentii Varronis Saturae Menippeae' LXIII. Parmeno 388. 347, 26 (Satires fragment LXIII. Parmeno 388. 347, 26 (396.1))
-                                        <br /><a href="http://www.forumromanum.org/literature/menippeae.html">M. Terentii Varronis Saturae Menippeae LXIII. Parmeno 388. 347, 26</a> (Latin)
-                                        <br /><a href="https://archive.org/stream/satiraeetliberpr00petruoft/satiraeetliberpr00petruoft_djvu.txt">Varronis Menippeae (10) 396</a> (Latin)
-                                        <br /><a href="https://archive.org/stream/mterentiusvarro00oehlgoog/mterentiusvarro00oehlgoog_djvu.txt">M. Terentius Varronis Saturarum Menippearum reliquiae: LXVI. PARMENO. 186.10.</a> (Latin)
-                                        <br /><a href="http://www.philological.bham.ac.uk/polyadag/1alat.html">Proverbia Latina: Varro, Satires fragment 396.1</a> (English)
-                                    </p>
-                                </blockquote>
-                                <h4>Translation</h4>
-                                <blockquote>
-                                    <p>I'll play <i>morra</i> with the Greek, to see whether I'll imitate his number, or he mine.</p>
-                                    <p>
-                                        <b>Marcus Terentius Varro</b> (116–27 BC, a.k.a. Varro Reatinus a.k.a. Varro): 'M. Terentii Varronis Saturae Menippeae' LXIII. Parmeno 388. 347, 26 (Satires fragment LXIII. Parmeno 388. 347, 26 (396.1))
-                                        <br /><a href="http://www.forumromanum.org/literature/menippeae.html">M. Terentii Varronis Saturae Menippeae LXIII. Parmeno 388. 347, 26</a> (Latin)
-                                        <br /><a href="https://archive.org/stream/satiraeetliberpr00petruoft/satiraeetliberpr00petruoft_djvu.txt">Varronis Menippeae (10) 396</a> (Latin)
-                                        <br /><a href="https://archive.org/stream/mterentiusvarro00oehlgoog/mterentiusvarro00oehlgoog_djvu.txt">M. Terentius Varronis Saturarum Menippearum reliquiae: LXVI. PARMENO. 186.10.</a> (Latin)
-                                        <br /><a href="http://www.philological.bham.ac.uk/polyadag/1alat.html">Proverbia Latina: Varro, Satires fragment 396.1</a> (English)
-                                    </p>
-                                </blockquote>
-                            </ol>
-                        </ol>
-                    </ol>
-                </ol>
-            </ol>
-            <p>'<i>Micare Digitis</i>' became so enrooted in the cultural landscape of Rome, that traces of its usage found its way into legal binding documents, such as an edict listed below concerning the validation of a transaction (dating perhaps AD 339, when Lucius Turcius Apronianus (father) or AD 363-4, when Lucius Turcius Apronianus, signo Asterius (son) was a Praefectus Urbi (of the city of Rome))...</p>
+            <p>In fact, '<i>Micare Digitis</i>' became so deeply enrooted in the cultural landscape of Rome, that traces of its usage found its way into legal binding documents, such as an edict listed below concerning the validation of a transaction (dating perhaps AD 339, when Lucius Turcius Apronianus (father) or AD 363-4, when Lucius Turcius Apronianus, signo Asterius (son) was a Praefectus Urbi (of the city of Rome))...</p>
             <ol>
                 <ol>
                     <ol>
@@ -1171,7 +1095,7 @@
                     </ol>
                 </ol>
             </ol>
-            <p>The tradition of '<i>Micare Digitis</i>' continued uninterruptedly at least to the times of Desiderius Erasmus Roterodamus (AD 1466–1536, a.k.a. Erasmus of Rotterdam a.k.a. Erasmus), since with a spectacular accuracy, is he able to describe the intrinsics of '<i>Micare Digitis</i>' under the header '<i>DIGNVS QVICVM IN TENEBRIS MICES</i>' in his collection of Greek and Latin proverbs called '<i>Collectanea Adagiorum</i>' (Adages), which dates to AD 1500, 1508, 1515 or 1533 depending on the edition, and which in its latest edition lists over four thousand items (first edition included 818 proverbs):</p>
+            <p>The tradition of '<i>Micare Digitis</i>' continued uninterruptedly at least to the times of Desiderius Erasmus Roterodamus (AD 1466–1536, a.k.a. Erasmus of Rotterdam a.k.a. Erasmus), since with a spectacular accuracy, is he able to describe the intrinsics of '<i>Micare Digitis</i>' under the header '<i>Dignvs Qvicvm in Tenebris Mices</i>' in his collection of Greek and Latin proverbs called '<i>Collectanea Adagiorum</i>' (Adages), which dates to AD 1500, 1508, 1515 or 1533 depending on the edition, and which in its latest edition lists over four thousand items (first edition included 818 proverbs):</p>
             <ol>
                 <ol>
                     <ol>
@@ -1193,7 +1117,83 @@
                     </ol>
                 </ol>
             </ol>
-            <p>According to <b>Πτολεμαῖος Ἡφαιστίων</b> (a.k.a. Ptolemaios Hephaestion a.k.a. Ptolemaeus Hephaestion a.k.a. Ptolemy Hephaestion) the tradition of '<i>Micare Digitis</i>' may have originated from <b>Ἑλένη</b> (a.k.a. Helen of Troy, who usually was considered to be a daughter of Zeus and Leda and the sister of Polydeuces and Castor (the Dioscuri); some traditions called her a daughter of Zeus and Nemesis), a view that is preserved only in the second hand sources, most notably in a work by Φώτιος (c. AD 810–893, a.k.a. Photios I of Constantinople, a.k.a. Photius, a.k.a. Fotios, the Ecumenical Patriarch of Constantinople AD 858–867 and AD 877–886) called <i>Βιβλιοθήκη</i> (Library), which is a <a href="http://remacle.org/bloodwolf/erudits/photius/table.htm">collection of 280 codices</a> (chapters or full volumes) devoted to ancient authors, in each citing extracts of the original text or providing summaries of the texts of the originals, which to a great extent are now believed to be lost as originals. In the 190th codex (cod. 190) of <i>Βιβλιοθήκη</i>, Φώτιος records a work by Πτολεμαῖος Ἡφαιστίων in six books, which is usually assigned to <b>Πτολεμαῖος Χέννος</b> (2nd century AD, a.k.a. Ptolemaeus Chennus a.k.a. Ptolemy Chennos of Alexandria a.k.a. Ptolemy Chennos, who was was a Greek grammarian and might be a son of Hephaestion), in which many details and characters seem to have been invented by the author, rather than come from the arduous work of research and as such could be considered as a visionary rather than a historical document:</p>
+            <p>When trying to find out the origins of the game of '<i>micare digitis</i>', we already know that Marcus Tullius Cicero (106–43 BC, a.k.a. Κικέρων) pointed out, that the proverb concerning playing '<i>micare digitis</i>' in the dark was already quite old in his time (Cic. Off. 3.19.77), but furthermore in another part of '<i>De Officiis</i>' he seems also to be indicating that the praxis of '<i>micare digitis</i>' was not unknown to the Greek either, when he is discussing the works of <b>Ἑκάτων</b> (c. first-second century BC, a.k.a. Hecaton of Rhodes, a.k.a. Hecaton) (Cic. Off. 3.23.89–90):</p>
+            <ol>
+                <ol>
+                    <ol>
+                        <ol>
+                            <ol>
+                                <blockquote>
+                                    <p><i>Plenus est sextus liber de officiis <b>Hecatonis</b> talium quaestionum:
+                                    <br />(...)
+                                    <br />"Quid? si una tabula sit, duo naufragi, eique sapientes, sibine uterque rapiat, an alter cedat alteri?"
+                                    <br /></i><b>Ἑκάτων:</b><i> "Cedat vero, sed ei, cuius magis intersit vel sua vel rei publicae causa vivere."
+                                    <br />"Quid, si haec paria in utroque?"
+                                    <br /></i><b>Ἑκάτων:</b><i> "Nullum erit certamen, sed quasi sorte aut micando victus alteri cedet alter."</i></p>
+                                    <p>
+                                        (Cic. Off. 3.23.89–90) <b>Marcus Tullius Cicero</b> a.k.a. Κικέρων, (106–43 BC): 'De Officiis' 3.23.89–90
+                                        <br /><a href="http://www.gutenberg.org/files/47001/47001-h/47001-h.htm">De Officiis by Marcus Tullius Cicero 3.23.89–90</a> (Latin and English)
+                                        <br /><a href="https://ia601403.us.archive.org/27/items/mtulliuscicerod00cicegoog/mtulliuscicerod00cicegoog.pdf">M. Tullius Cicero, De Officiis 3.23.89–90</a> (PDF, 5.7 MB) (Latin)
+                                        <br /><ol><ol><ol>
+                                            Sim. <a href="http://www.perseus.tufts.edu/hopper/text?doc=Cic.+Off.+3.89&fromdoc=Perseus%3Atext%3A2007.01.0047">M. Tullius Cicero, De Officiis 3.89–90</a> Walter Miller, 1913. (Latin)
+                                        </ol></ol></ol>
+                                    </p>
+                                </blockquote>
+                                <h4>Translation</h4>
+                                <blockquote>
+                                    <p>The sixth book of of the Stoic philosopher <b>Hecaton</b>'s "Moral Duties" is full of questions like the following:
+                                    <br />(...)
+                                    <br />"Again; suppose there were two to be saved from the sinking ship—both of them wise men—and only one small plank, should both seize it to save themselves? Or should one give place to the other?"
+                                    <br /><b>Hecaton:</b> "Why of course, one should give place to the other, but that other must be the one whose life is more valuable either for his own sake or for that of his country."
+                                    <br />"But what if these considerations are of equal weight in both?"
+                                    <br /><b>Hecaton:</b> "Then there will be no contest, but one will give place to the other, as if the point were decided by lot or at a game of odd and even."</p>
+                                    <p>
+                                        (Cic. Off. 3.23.89–90) <b>Marcus Tullius Cicero</b> a.k.a. Κικέρων, (106–43 BC): 'De Officiis' 3.23.89–90
+                                        <br /><a href="http://www.gutenberg.org/files/47001/47001-h/47001-h.htm">De Officiis by Marcus Tullius Cicero 3.23.89–90</a> (Latin and English)
+                                        <br /><a href="https://ia601403.us.archive.org/27/items/mtulliuscicerod00cicegoog/mtulliuscicerod00cicegoog.pdf">M. Tullius Cicero, De Officiis 3.23.89–90</a> (PDF, 5.7 MB) (Latin)
+                                        <br /><ol><ol><ol>
+                                            Sim. <a href="http://www.perseus.tufts.edu/hopper/text?doc=Cic.+Off.+3.89&fromdoc=Perseus%3Atext%3A2007.01.0047">M. Tullius Cicero, De Officiis 3.89–90</a> Walter Miller, 1913. (Latin)
+                                        </ol></ol></ol>
+                                    </p>
+                                </blockquote>
+                            </ol>
+                        </ol>
+                    </ol>
+                </ol>
+            </ol>
+            <p>A Roman scholar and writer Marcus Terentius Varro (116–27 BC, a.k.a. Varro Reatinus a.k.a. Varro) is indeed confirming, that '<i>micare digitis</i>' is known in the realm of ancient Greece, too, in one of the fragments of <i>Menippean Satires</i></p>
+            <ol>
+                <ol>
+                    <ol>
+                        <ol>
+                            <ol>
+                                <blockquote>
+                                    <p><i>Micandum erit cum Graeco, utrum ego illius numerum an ille meum sequatur.</i></p>
+                                    <p>
+                                        <b>Marcus Terentius Varro</b> (116–27 BC, a.k.a. Varro Reatinus a.k.a. Varro): 'M. Terentii Varronis Saturae Menippeae' LXIII. Parmeno 388. 347, 26 (Satires fragment LXIII. Parmeno 388. 347, 26 (396.1))
+                                        <br /><a href="http://www.forumromanum.org/literature/menippeae.html">M. Terentii Varronis Saturae Menippeae LXIII. Parmeno 388. 347, 26</a> (Latin)
+                                        <br /><a href="https://archive.org/stream/satiraeetliberpr00petruoft/satiraeetliberpr00petruoft_djvu.txt">Varronis Menippeae (10) 396</a> (Latin)
+                                        <br /><a href="https://archive.org/stream/mterentiusvarro00oehlgoog/mterentiusvarro00oehlgoog_djvu.txt">M. Terentius Varronis Saturarum Menippearum reliquiae: LXVI. PARMENO. 186.10.</a> (Latin)
+                                        <br /><a href="http://www.philological.bham.ac.uk/polyadag/1alat.html">Proverbia Latina: Varro, Satires fragment 396.1</a> (English)
+                                    </p>
+                                </blockquote>
+                                <h4>Translation</h4>
+                                <blockquote>
+                                    <p>I'll play <i>morra</i> with the Greek, to see whether I'll imitate his number, or he mine.</p>
+                                    <p>
+                                        <b>Marcus Terentius Varro</b> (116–27 BC, a.k.a. Varro Reatinus a.k.a. Varro): 'M. Terentii Varronis Saturae Menippeae' LXIII. Parmeno 388. 347, 26 (Satires fragment LXIII. Parmeno 388. 347, 26 (396.1))
+                                        <br /><a href="http://www.forumromanum.org/literature/menippeae.html">M. Terentii Varronis Saturae Menippeae LXIII. Parmeno 388. 347, 26</a> (Latin)
+                                        <br /><a href="https://archive.org/stream/satiraeetliberpr00petruoft/satiraeetliberpr00petruoft_djvu.txt">Varronis Menippeae (10) 396</a> (Latin)
+                                        <br /><a href="https://archive.org/stream/mterentiusvarro00oehlgoog/mterentiusvarro00oehlgoog_djvu.txt">M. Terentius Varronis Saturarum Menippearum reliquiae: LXVI. PARMENO. 186.10.</a> (Latin)
+                                        <br /><a href="http://www.philological.bham.ac.uk/polyadag/1alat.html">Proverbia Latina: Varro, Satires fragment 396.1</a> (English)
+                                    </p>
+                                </blockquote>
+                            </ol>
+                        </ol>
+                    </ol>
+                </ol>
+            </ol>
+            <p>However, it is <b>Πτολεμαῖος Ἡφαιστίων</b> (a.k.a. Ptolemaios Hephaestion a.k.a. Ptolemaeus Hephaestion a.k.a. Ptolemy Hephaestion) according to whom the tradition of '<i>Micare Digitis</i>' may have originated from <b>Ἑλένη</b> (a.k.a. Helen of Troy, who usually was considered to be a daughter of Zeus and Leda and the sister of Polydeuces and Castor (the Dioscuri); some traditions called her a daughter of Zeus and Nemesis), a view that is preserved only in the second hand sources, most notably in a work by Φώτιος (c. AD 810–893, a.k.a. Photios I of Constantinople, a.k.a. Photius, a.k.a. Fotios, the Ecumenical Patriarch of Constantinople AD 858–867 and AD 877–886) called <i>Βιβλιοθήκη</i> (Library), which is a <a href="http://remacle.org/bloodwolf/erudits/photius/table.htm">collection of 280 codices</a> (chapters or full volumes) devoted to ancient authors, in each citing extracts of the original text or providing summaries of the texts of the originals, which to a great extent are now believed to be lost as originals. In the 190th codex (cod. 190) of <i>Βιβλιοθήκη</i>, Φώτιος records a work by Πτολεμαῖος Ἡφαιστίων in six books, which is usually assigned to <b>Πτολεμαῖος Χέννος</b> (2nd century AD, a.k.a. Ptolemaeus Chennus a.k.a. Ptolemy Chennos of Alexandria a.k.a. Ptolemy Chennos, who was was a Greek grammarian and might or might not be a son of Hephaestion), in which many details and characters seem to have been invented by the author, rather than come from the arduous work of research and as such could be considered as a visionary rather than a historical document:</p>
             <ol>
                 <ol>
                     <ol>
@@ -1254,7 +1254,7 @@
                     </ol>
                 </ol>
             </ol>
-            <p>'<i>Micare Digitis</i>' has had a wide cultural impact, which is demonstrated to us, for instance, by J.J.M. de Groot, since when discussing the annual festivals celebrated in Émoi he makes a remark that '<i>Micare Digitis</i>' with the identical set of rules is also known in China by the name '<i>hoah-koûn</i>' («crier le poing» or "shout fist"):</p>
+            <p>In its rich history '<i>Micare Digitis</i>' has had a wide cultural impact, which is demonstrated to us, for instance, by J.J.M. de Groot, since when discussing the annual festivals celebrated in Émoi he makes a remark that '<i>Micare Digitis</i>' with the identical set of rules is also known in China by the name '<i>hoah-koûn</i>' («crier le poing» or "shout fist"):</p>
             <ol>
                 <ol>
                     <ol>
