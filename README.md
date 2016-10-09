@@ -53,12 +53,20 @@
                     <td style="padding:6px"><a href="https://github.com/auberginehill/emoji-table">Emoji Table</a></td>
                 </tr>
                 <tr>
+                    <td style="padding:6px">de Groot, J.J.M. (1886):</td>
+                    <td style="padding:6px"><a href="http://lenculus.mirror.k0nsl.org/___Collection%20Chine%20ancienne__%20473__/Groot%2C%20J.%20J.%20M%20de%20-%20Les%20f%C3%AAtes%20annuellement%20c%C3%A9l%C3%A9br%C3%A9es%20%C3%A0%20%C3%89moui.%20Les%20deux%20volumes%20en%20un.pdf">'Les Fêtes Annuellement Célébrées à Émoui', page 496.</a> Published 1886, reprint 1977. (PDF, 7.5 MB) (French)</td>
+                </tr>
+                <tr>
                     <td style="padding:6px">Linhart, Sepp and Sabine Frühstück (1998):</td>
                     <td style="padding:6px"><a href="https://books.google.com/books?id=k_Cb7a6FQwwC&pg=PA325">The Culture of Japan as Seen through Its Leisure</a></td>
                 </tr>
                 <tr>
                     <td style="padding:6px">Linhart, Sepp (1995):</td>
                     <td style="padding:6px"><a href="https://minpaku.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=3017&item_no=1&page_id=13&block_id=21">Some Thoughts on the Ken Game in Japan: From the Viewpoint of Comparative Civilization Studies</a></td>
+                </tr>
+                <tr>
+                    <td style="padding:6px">Rich, Anthony (1893):</td>
+                    <td style="padding:6px"><a href="http://www.archive.org/stream/adictionaryroma00richgoog#page/n429/mode/2up">A Dictionary of Roman and Greek Antiquities: Micatio or digitis micare, page 422–423</a> with Nearly 2000 Engravings on Wood from Ancient Originals. Published 1893. (<a href="https://archive.org/download/adictionaryroma00richgoog/adictionaryroma00richgoog.pdf">PDF</a>, 38.8 MB or a <a href="https://archive.org/stream/adictionaryroma00richgoog/adictionaryroma00richgoog_djvu.txt">txt-file</a>)</td>
                 </tr>
                 <tr>
                     <td style="padding:6px">Dave Tabler:</td>
@@ -246,7 +254,55 @@
                                     <tr>
                                         <td style="padding:6px"><strong>(1) 手勢令 (Shoushiling)</strong></td>
                                         <td style="padding:6px">
-                                            <p>"In 手勢令 (Shoushiling, literally: 'hand command') each participant shows one of the three hand signals after a synchronized countdown, which consists of one to three pre-steps (i.e. 1-signal to 3-2-1-signal), has elapsed. It is essential for the flow of the game for all participants (1) to know the number of pre-steps, for them to be certain, on which count the signal shall be released and (2) then to be in the same rhythm before the handsigns are signalled. If at any time the players are not in synch with their pre-steps (primes), it is recommended to restart the game, since having players deliver their throw at the same time is critical in ensuring a fair match. For fairness of the play, it is recommended to agree on the number of rounds to be played before the playing begins, so that each participant will know whether the outcome will be decided in one go or whether the game is in a tournament mode (best out of [uneven_number_of_rounds]). The released hand signs each have an inherent value in which one sign will always be better than the released hand sign and another hand sign will be worse than the released hand sign – furthermore it is ordained that all the signs together are valued successively so that they form an 'Infinite Loop of Betterness'. In 手勢令 (Shoushiling) this loop is formed by valuing the hand signals as follows: 蜈蚣 Centipede (wu) wins against 蛇 Snake (she), 蛇 Snake (she) wins against 蛙 Frog (wa) and 蛙 Frog (wa) wins against 蜈蚣 Centipede (wu) or in a negative tone: 蜈蚣 Centipede (wu) loses against 蛙 Frog (wa), 蛙 Frog (wa) loses against 蛇 Snake (she) and 蛇 Snake (she) loses against 蜈蚣 Centipede (wu). In 手勢令 (Shoushiling) ties, where the participants show the same hand signal as a result, per se, cannot be broken, but the occured 'Tie-Break Situation' is usually resolved by playing another round of 手勢令 (Shoushiling) immediately after the existence of 'Tie-Break Situation' has been confirmed."</p></td>
+                                            <p>"In 手勢令 (Shoushiling, literally: 'hand command') each participant shows one of the three hand signals after a synchronized countdown, which consists of one to three pre-steps (i.e. 1-signal to 3-2-1-signal), has elapsed. It is essential for the flow of the game for all participants (1) to know the number of pre-steps, for them to be certain, on which count the signal shall be released and (2) then to be in the same rhythm before the handsigns are signalled. If at any time the players are not in synch with their pre-steps (primes), it is recommended to restart the game, since having players deliver their throw at the same time is critical in ensuring a fair match. For fairness of the play, it is recommended to agree on the number of rounds to be played before the playing begins, so that each participant will know whether the outcome will be decided in one go or whether the game is in a tournament mode (best out of [uneven_number_of_rounds]). The released hand signs each have an inherent value in which one sign will always be better than the released hand sign and another hand sign will be worse than the released hand sign – furthermore it is ordained that all the signs together are valued successively so that they form an 'Infinite Loop of Betterness'. In 手勢令 (Shoushiling) this loop is formed by valuing the hand signals as follows:</p>
+                                            <ol>
+                                                <table>
+                                                    <tr>
+                                                        <td style="padding:6px">蜈蚣 Centipede (wu) wins against 蛇 Snake (she)</td>
+                                                        <td style="padding:6px">蜈蚣 Centipede (wu) loses against 蛙 Frog (wa)</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding:6px">蛇 Snake (she) wins against 蛙 Frog (wa)</td>
+                                                        <td style="padding:6px">蛇 Snake (she) loses against 蜈蚣 Centipede (wu)</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding:6px">蛙 Frog (wa) wins against 蜈蚣 Centipede (wu)</td>
+                                                        <td style="padding:6px">蛙 Frog (wa) loses against 蛇 Snake (she)</td>
+                                                    </tr>
+                                                </table>
+                                            </ol>
+                                            <h4>Classic 手勢令 (Shoushiling) – Chinese</h4>
+                                            <ol>
+                                                <p>
+                                                    <table>
+                                                        <tr>
+                                                            <th style="padding:6px"><strong></strong></th>
+                                                            <th style="padding:6px"><strong>蜈蚣 CENTIPEDE (wu)</strong></th>
+                                                            <th style="padding:6px"><strong>蛇 SNAKE (she)</strong></th>
+                                                            <th style="padding:6px"><strong>蛙 FROG (wa)</strong></th>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" style="padding:6px"><strong>蜈蚣 CENTIPEDE (wu)</strong></td>
+                                                            <td align="center" style="padding:6px">Tie</td>
+                                                            <td align="center" style="padding:6px">蜈蚣 Centipede (wu)</td>
+                                                            <td align="center" style="padding:6px">蛙 Frog (wa)</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" style="padding:6px"><strong>蛇 SNAKE (she)</strong></td>
+                                                            <td align="center" style="padding:6px">蜈蚣 Centipede (wu)</td>
+                                                            <td align="center" style="padding:6px">Tie</td>
+                                                            <td align="center" style="padding:6px">蛇 Snake (she)</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" style="padding:6px"><strong>蛙 FROG (wa)</strong></td>
+                                                            <td align="center" style="padding:6px">蛙 Frog (wa)</td>
+                                                            <td align="center" style="padding:6px">蛇 Snake (she)</td>
+                                                            <td align="center" style="padding:6px">Tie</td>
+                                                        </tr>
+                                                    </table>
+                                                </p>
+                                            </ol>
+                                            <p>In 手勢令 (Shoushiling) ties, where the participants show the same hand signal as a result, per se, cannot be broken, but the occured 'Tie-Break Situation' is usually resolved by playing another round of 手勢令 (Shoushiling) immediately after the existence of 'Tie-Break Situation' has been confirmed."</p></td>
                                    </tr>
                                    <tr>
                                         <td style="padding:6px"><strong></strong></td>
@@ -259,7 +315,55 @@
                                     <tr>
                                         <td style="padding:6px"><strong>(2) 虫拳 (Mushi-ken)</strong></td>
                                         <td style="padding:6px">
-                                            <p>"In 虫拳 (Mushi-ken) (ken ('fist') of the small animals, one of the games of 三竦み拳 ('sansukumi-ken', ken ('fist') of the three who are afraid of one another)) each participant shows one of the three hand signals after a synchronized countdown, which consists of one to three pre-steps (i.e. 1-signal to 3-2-1-signal), has elapsed. It is essential for the flow of the game for all participants (1) to know the number of pre-steps, for them to be certain, on which count the signal shall be released and (2) then to be in the same rhythm before the handsigns are signalled. If at any time the players are not in synch with their pre-steps (primes), it is recommended to restart the game, since having players deliver their throw at the same time is critical in ensuring a fair match. For fairness of the play, it is recommended to agree on the number of rounds to be played before the playing begins, so that each participant will know whether the outcome will be decided in one go or whether the game is in a tournament mode (best out of [uneven_number_of_rounds]). The released hand signs each have an inherent value in which one sign will always be better than the released hand sign and another hand sign will be worse than the released hand sign – furthermore it is ordained that all the signs together are valued successively so that they form an 'Infinite Loop of Betterness'. In 虫拳 (Mushi-ken) this loop is formed by valuing the hand signals as follows: なめくじ (蛞蝓) Slug (namekuji) wins against へび (蛇) Snake (hebi), へび (蛇) Snake (hebi) wins against かわず (蛙) Frog (kawazu) and かわず (蛙) Frog (kawazu) wins against なめくじ (蛞蝓) Slug (namekuji) or in a negative tone: なめくじ (蛞蝓) Slug (namekuji) loses against かわず (蛙) Frog (kawazu), かわず (蛙) Frog (kawazu) loses against へび (蛇) Snake (hebi) and へび (蛇) Snake (hebi) loses against なめくじ (蛞蝓) Slug (namekuji). In 虫拳 (Mushi-ken) ties, where the participants show the same hand signal as a result, per se, cannot be broken, but the occured 'Tie-Break Situation' is usually resolved by playing another round of 虫拳 (Mushi-ken) immediately after the existence of 'Tie-Break Situation' has been confirmed."</p></td>
+                                            <p>"In 虫拳 (Mushi-ken) (ken ('fist') of the small animals, one of the games of 三竦み拳 ('sansukumi-ken', ken ('fist') of the three who are afraid of one another)) each participant shows one of the three hand signals after a synchronized countdown, which consists of one to three pre-steps (i.e. 1-signal to 3-2-1-signal), has elapsed. It is essential for the flow of the game for all participants (1) to know the number of pre-steps, for them to be certain, on which count the signal shall be released and (2) then to be in the same rhythm before the handsigns are signalled. If at any time the players are not in synch with their pre-steps (primes), it is recommended to restart the game, since having players deliver their throw at the same time is critical in ensuring a fair match. For fairness of the play, it is recommended to agree on the number of rounds to be played before the playing begins, so that each participant will know whether the outcome will be decided in one go or whether the game is in a tournament mode (best out of [uneven_number_of_rounds]). The released hand signs each have an inherent value in which one sign will always be better than the released hand sign and another hand sign will be worse than the released hand sign – furthermore it is ordained that all the signs together are valued successively so that they form an 'Infinite Loop of Betterness'. In 虫拳 (Mushi-ken) this loop is formed by valuing the hand signals as follows:</p>
+                                            <ol>
+                                                <table>
+                                                    <tr>
+                                                        <td style="padding:6px">なめくじ (蛞蝓) Slug (namekuji) wins against へび (蛇) Snake (hebi)</td>
+                                                        <td style="padding:6px">なめくじ (蛞蝓) Slug (namekuji) loses against かわず (蛙) Frog (kawazu)</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding:6px">へび (蛇) Snake (hebi) wins against かわず (蛙) Frog (kawazu)</td>
+                                                        <td style="padding:6px">へび (蛇) Snake (hebi) loses against なめくじ (蛞蝓) Slug (namekuji)</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding:6px">かわず (蛙) Frog (kawazu) wins against なめくじ (蛞蝓) Slug (namekuji)</td>
+                                                        <td style="padding:6px">かわず (蛙) Frog (kawazu) loses against へび (蛇) Snake (hebi)</td>
+                                                    </tr>
+                                                </table>
+                                            </ol>
+                                            <h4>Classic 虫拳 (Mushi-ken) – Japanese</h4>
+                                            <ol>
+                                                <p>
+                                                    <table>
+                                                        <tr>
+                                                            <th style="padding:6px"><strong></strong></th>
+                                                            <th style="padding:6px"><strong>なめくじ (蛞蝓) SLUG (namekuji)</strong></th>
+                                                            <th style="padding:6px"><strong>へび (蛇) SNAKE (hebi)</strong></th>
+                                                            <th style="padding:6px"><strong>かわず (蛙) FROG (kawazu)</strong></th>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" style="padding:6px"><strong>なめくじ (蛞蝓) SLUG (namekuji)</strong></td>
+                                                            <td align="center" style="padding:6px">Tie</td>
+                                                            <td align="center" style="padding:6px">なめくじ (蛞蝓) Slug (namekuji)</td>
+                                                            <td align="center" style="padding:6px">かわず (蛙) Frog (kawazu)</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" style="padding:6px"><strong>へび (蛇) SNAKE (hebi)</strong></td>
+                                                            <td align="center" style="padding:6px">なめくじ (蛞蝓) Slug (namekuji)</td>
+                                                            <td align="center" style="padding:6px">Tie</td>
+                                                            <td align="center" style="padding:6px">へび (蛇) Snake (hebi)</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" style="padding:6px"><strong>かわず (蛙) FROG (kawazu)</strong></td>
+                                                            <td align="center" style="padding:6px">かわず (蛙) Frog (kawazu))</td>
+                                                            <td align="center" style="padding:6px">へび (蛇) Snake (hebi)</td>
+                                                            <td align="center" style="padding:6px">Tie</td>
+                                                        </tr>
+                                                    </table>
+                                                </p>
+                                            </ol>                                            
+                                            <p>In 虫拳 (Mushi-ken) ties, where the participants show the same hand signal as a result, per se, cannot be broken, but the occured 'Tie-Break Situation' is usually resolved by playing another round of 虫拳 (Mushi-ken) immediately after the existence of 'Tie-Break Situation' has been confirmed."</p></td>
                                    </tr>
                                    <tr>
                                         <td style="padding:6px"><strong></strong></td>
@@ -285,7 +389,55 @@
                                     <tr>
                                         <td style="padding:6px"><strong>(4) 'Rock-paper-scissors' -game</strong></td>
                                         <td style="padding:6px">
-                                            <p>"In 'Rock-paper-scissors' (or 'Stone-paper-scissors') each participant shows one of the three hand signals after a synchronized countdown, which consists of two or three pre-steps (i.e. 3-2-1-signal or 2-1-signal), has elapsed. It is essential for the flow of the game for all participants (1) to know the number of pre-steps, for them to be certain, will the signal be released on third or fourth count and (2) then to be in the same rhythm before the handsigns are signalled. If at any time the players are not in synch with their pre-steps (primes), it is recommended to restart the game, since having players deliver their throw at the same time is critical in ensuring a fair match. For fairness of the play, it is recommended to agree on the number of rounds to be played before the playing begins, so that each participant will know whether the outcome will be decided in one go or whether the game is in a tournament mode (best out of [uneven_number_of_rounds]). The released hand signs each have an inherent value in which one sign will always be better than the released hand sign and another hand sign will be worse than the released hand sign – furthermore it is ordained that all the signs together are valued successively so that they form an 'Infinite Loop of Betterness'. In 'Rock-paper-scissors' this loop is formed by valuing the hand signals as follows: 'Rock wins against Scissors, Scissors wins against Paper and Paper wins against Rock' or in a negative tone: 'Rock loses against Paper, Paper loses against Scissors and Scissors loses against Rock'. In 'Rock-paper-scissors' ties, where the participants show the same hand signal as a result, per se, cannot be broken, but the occured 'Tie-Break Situation' is usually resolved by playing another round of 'Rock-paper-scissors' immediately after the existence of 'Tie-Break Situation' has been confirmed."</p></td>
+                                            <p>"In 'Rock-paper-scissors' (or 'Stone-paper-scissors') each participant shows one of the three hand signals after a synchronized countdown, which consists of two or three pre-steps (i.e. 3-2-1-signal or 2-1-signal), has elapsed. It is essential for the flow of the game for all participants (1) to know the number of pre-steps, for them to be certain, will the signal be released on third or fourth count and (2) then to be in the same rhythm before the handsigns are signalled. If at any time the players are not in synch with their pre-steps (primes), it is recommended to restart the game, since having players deliver their throw at the same time is critical in ensuring a fair match. For fairness of the play, it is recommended to agree on the number of rounds to be played before the playing begins, so that each participant will know whether the outcome will be decided in one go or whether the game is in a tournament mode (best out of [uneven_number_of_rounds]). The released hand signs each have an inherent value in which one sign will always be better than the released hand sign and another hand sign will be worse than the released hand sign – furthermore it is ordained that all the signs together are valued successively so that they form an 'Infinite Loop of Betterness'. In 'Rock-paper-scissors' this loop is formed by valuing the hand signals as follows:</p>
+                                            <ol>
+                                                <table>
+                                                    <tr>
+                                                        <td style="padding:6px">Rock wins against Scissors</td>
+                                                        <td style="padding:6px">Rock loses against Paper</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding:6px">Scissors wins against Paper</td>
+                                                        <td style="padding:6px">Scissors loses against Rock</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding:6px">Paper wins against Rock</td>
+                                                        <td style="padding:6px">Paper loses against Scissors</td>
+                                                    </tr>
+                                                </table>
+                                            </ol>
+                                            <h4>Classic 'Rock-paper-scissors'</h4>
+                                            <ol>
+                                                <p>
+                                                    <table>
+                                                        <tr>
+                                                            <th style="padding:6px"><strong></strong></th>
+                                                            <th style="padding:6px"><strong>ROCK</strong></th>
+                                                            <th style="padding:6px"><strong>PAPER</strong></th>
+                                                            <th style="padding:6px"><strong>SCISSORS</strong></th>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" style="padding:6px"><strong>ROCK</strong></td>
+                                                            <td align="center" style="padding:6px">Tie</td>
+                                                            <td align="center" style="padding:6px">Paper</td>
+                                                            <td align="center" style="padding:6px">Rock</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" style="padding:6px"><strong>PAPER</strong></td>
+                                                            <td align="center" style="padding:6px">Paper</td>
+                                                            <td align="center" style="padding:6px">Tie</td>
+                                                            <td align="center" style="padding:6px">Scissors</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" style="padding:6px"><strong>SCISSORS</strong></td>
+                                                            <td align="center" style="padding:6px">Rock</td>
+                                                            <td align="center" style="padding:6px">Scissors</td>
+                                                            <td align="center" style="padding:6px">Tie</td>
+                                                        </tr>
+                                                    </table>
+                                                </p>
+                                            </ol>
+                                            <p>In 'Rock-paper-scissors' ties, where the participants show the same hand signal as a result, per se, cannot be broken, but the occured 'Tie-Break Situation' is usually resolved by playing another round of 'Rock-paper-scissors' immediately after the existence of 'Tie-Break Situation' has been confirmed."</p></td>
                                    </tr>
                                    <tr>
                                         <td style="padding:6px"><strong></strong></td>
@@ -521,38 +673,6 @@
             <p>Judging and analyzing what happens in the Approach phase lies in the heart of fairness of 'Rock-paper-scissors'. While it seems, that <a href="http://www.k2.t.u-tokyo.ac.jp/fusion/Janken/index-e.html">this 1 ms machine</a> (even in its second version) has a 100 % win rate against any human opponent, it actually is throwing "forced rocks" every time, since the decision, what signal should be shown, is made by the machine after the artificial hand has reached its lowest position, which could resemble the 90-degree angle with its human opponents. This 1-ms-responce-time-machine can be beaten every time by throwing a paper against it and declaring that its throw should be nullified as a "forced rock", since the resulting "Scissors" was decided by the machine after the artificial hand had reached its lowest position and at the time the artificial hand had reached its lowest position the hand was showing a "Rock" signal.</p>
             <h4>Multiplayer Modes</h4>
             <p>A multiple player variation can be played: Players stand in a circle and all throw at once. If rock, paper, and scissors are all thrown, it is a stalemate, and the round is replayed. If one option is delivered by all participants, the 'Tie-Break Situation' is resolved by playing another round of 'Rock-paper-scissors' immediately after the existence of 'Tie-Break Situation' has been confirmed. If two throws are present, all players with the losing throw are eliminated. The play continues until only the winner remains.</p>
-
-            <h4>Classic 'Rock-paper-scissors'</h4>
-            <ol>
-                <p>
-                    <table>
-                        <tr>
-                            <th style="padding:6px"><strong></strong></th>
-                            <th style="padding:6px"><strong>ROCK</strong></th>
-                            <th style="padding:6px"><strong>PAPER</strong></th>
-                            <th style="padding:6px"><strong>SCISSORS</strong></th>
-                        </tr>
-                        <tr>
-                            <td align="center" style="padding:6px"><strong>ROCK</strong></td>
-                            <td align="center" style="padding:6px">Tie</td>
-                            <td align="center" style="padding:6px">Paper</td>
-                            <td align="center" style="padding:6px">Rock</td>
-                        </tr>
-                        <tr>
-                            <td align="center" style="padding:6px"><strong>PAPER</strong></td>
-                            <td align="center" style="padding:6px">Paper</td>
-                            <td align="center" style="padding:6px">Tie</td>
-                            <td align="center" style="padding:6px">Scissors</td>
-                        </tr>
-                        <tr>
-                            <td align="center" style="padding:6px"><strong>SCISSORS</strong></td>
-                            <td align="center" style="padding:6px">Rock</td>
-                            <td align="center" style="padding:6px">Scissors</td>
-                            <td align="center" style="padding:6px">Tie</td>
-                        </tr>
-                    </table>
-                </p>
-            </ol>
             <h4>'Rock-paper-scissors'</h4>
             <ol>
                 <p>
@@ -642,37 +762,6 @@
                     </table>
                 </p>
             </ol>
-            <h4>Classic 手勢令 (Shoushiling) – Chinese</h4>
-            <ol>
-                <p>
-                    <table>
-                        <tr>
-                            <th style="padding:6px"><strong></strong></th>
-                            <th style="padding:6px"><strong>蜈蚣 CENTIPEDE (wu)</strong></th>
-                            <th style="padding:6px"><strong>蛇 SNAKE (she)</strong></th>
-                            <th style="padding:6px"><strong>蛙 FROG (wa)</strong></th>
-                        </tr>
-                        <tr>
-                            <td align="center" style="padding:6px"><strong>蜈蚣 CENTIPEDE (wu)</strong></td>
-                            <td align="center" style="padding:6px">Tie</td>
-                            <td align="center" style="padding:6px">蜈蚣 Centipede (wu)</td>
-                            <td align="center" style="padding:6px">蛙 Frog (wa)</td>
-                        </tr>
-                        <tr>
-                            <td align="center" style="padding:6px"><strong>蛇 SNAKE (she)</strong></td>
-                            <td align="center" style="padding:6px">蜈蚣 Centipede (wu)</td>
-                            <td align="center" style="padding:6px">Tie</td>
-                            <td align="center" style="padding:6px">蛇 Snake (she)</td>
-                        </tr>
-                        <tr>
-                            <td align="center" style="padding:6px"><strong>蛙 FROG (wa)</strong></td>
-                            <td align="center" style="padding:6px">蛙 Frog (wa)</td>
-                            <td align="center" style="padding:6px">蛇 Snake (she)</td>
-                            <td align="center" style="padding:6px">Tie</td>
-                        </tr>
-                    </table>
-                </p>
-            </ol>
             <h4>手勢令 (Shoushiling) – Chinese</h4>
             <ol>
                 <p>
@@ -753,37 +842,6 @@
         <th></th>
         <td style="padding:6px">
             <h4>虫拳 (Mushi-ken) (ken ('fist') of the small animals, one of the games of 三竦み拳 ('sansukumi-ken', ken ('fist') of the three who are afraid of one another)) – Japanese</h4>
-            <h4>Classic 虫拳 (Mushi-ken) – Japanese</h4>
-            <ol>
-                <p>
-                    <table>
-                        <tr>
-                            <th style="padding:6px"><strong></strong></th>
-                            <th style="padding:6px"><strong>なめくじ (蛞蝓) SLUG (namekuji)</strong></th>
-                            <th style="padding:6px"><strong>へび (蛇) SNAKE (hebi)</strong></th>
-                            <th style="padding:6px"><strong>かわず (蛙) FROG (kawazu)</strong></th>
-                        </tr>
-                        <tr>
-                            <td align="center" style="padding:6px"><strong>なめくじ (蛞蝓) SLUG (namekuji)</strong></td>
-                            <td align="center" style="padding:6px">Tie</td>
-                            <td align="center" style="padding:6px">なめくじ (蛞蝓) Slug (namekuji)</td>
-                            <td align="center" style="padding:6px">かわず (蛙) Frog (kawazu)</td>
-                        </tr>
-                        <tr>
-                            <td align="center" style="padding:6px"><strong>へび (蛇) SNAKE (hebi)</strong></td>
-                            <td align="center" style="padding:6px">なめくじ (蛞蝓) Slug (namekuji)</td>
-                            <td align="center" style="padding:6px">Tie</td>
-                            <td align="center" style="padding:6px">へび (蛇) Snake (hebi)</td>
-                        </tr>
-                        <tr>
-                            <td align="center" style="padding:6px"><strong>かわず (蛙) FROG (kawazu)</strong></td>
-                            <td align="center" style="padding:6px">かわず (蛙) Frog (kawazu))</td>
-                            <td align="center" style="padding:6px">へび (蛇) Snake (hebi)</td>
-                            <td align="center" style="padding:6px">Tie</td>
-                        </tr>
-                    </table>
-                </p>
-            </ol>
             <h4>虫拳 (Mushi-ken) – Japanese</h4>
             <ol>
                 <p>
@@ -1024,7 +1082,7 @@
                                     <p><i>Ex auctoritate Turci Aproniani v(iri) c(larissimi), Praefecti Urbis. Ratio docuit utilitate suadente, consuetudine micandi summota sub exagio potius pecora vendere, quam digitis conludentibus [concludentibus] tradere,...</i>
                                     </p>
                                     <p>
-                                        (Inscr. Orell. 3166)<b>Johann Caspar Orelli</b> (c. AD 1787–1849): 'Inscriptionum Latinarum selectarum amplissima collectio', 3166. Ad Illustrandam Romanae Antiquitatis by Johann Caspar von Orellius, Wilhelm Henzen. Published 1828. or 'Orellii inscriptionum Latinarum selectarum collectio', 3166: Turici 1828.
+                                        (Inscr. Orell. 3166) <b>Johann Caspar Orelli</b> (c. AD 1787–1849): 'Inscriptionum Latinarum selectarum amplissima collectio', 3166. Ad Illustrandam Romanae Antiquitatis by Johann Caspar von Orellius, Wilhelm Henzen. Published 1828. or 'Orellii inscriptionum Latinarum selectarum collectio', 3166: Turici 1828.
                                         <br /><a href="https://archive.org/details/inscriptionumla01henzgoog">'Orellii Inscriptionum Latinarum selectarum amplissima collectio', 3166.</a> (Latin)
                                         <br /><a href="https://ia902608.us.archive.org/21/items/inscriptionumla01henzgoog/inscriptionumla01henzgoog.pdf">'Orellii Inscriptionum Latinarum selectarum amplissima collectio', 3166.</a> (PDF, 26.1 MB) (Latin)
                                         <br />Corpus Inscriptionum Latinarum: <a href="http://arachne.uni-koeln.de/item/buchseite/580887">CIL VI 1770</a> (Latin)
@@ -1127,7 +1185,7 @@
                                         <br /><a href="http://jvpoll.home.xs4all.nl/back/Web/erasweb8.htm#a723">'Collectanea Adagiorum' 723. I, VIII, 23.</a> (Latin)
                                         <br /><a href="https://web.archive.org/web/20110929193309/http://sites.univ-lyon2.fr/lesmondeshumanistes/wp-content/uploads/2010/09/Adages-tome-1.pdf">Les Adages D'Érasme, Tome I</a> (PDF, 5 MB, <a href="https://web.archive.org/web/20110619002744/http://sites.univ-lyon2.fr:80/lesmondeshumanistes/category/adages-erasme/">other parts</a> or <a href="https://web.archive.org/web/20120114123112/http://sites.univ-lyon2.fr/lesmondeshumanistes/wp-content/uploads/Adages.pdf">all Adages</a> (PDF, 14 MB with 2606 pages) (Latin)
                                         <br /><a href="http://www.andreascenter.org/Articles/Erasmus.htm">Erasmus</a>
-                                        <br /><a href="http://quod.lib.umich.edu/e/eebo/A38569.0001.001/1:2?rgn=div1;view=fulltext">The Life of Erasmus</a> Published 1699.         
+                                        <br /><a href="http://quod.lib.umich.edu/e/eebo/A38569.0001.001/1:2?rgn=div1;view=fulltext">The Life of Erasmus</a> Published 1699.
                                     </p>
                                 </blockquote>
                             </ol>
@@ -1177,7 +1235,7 @@
                     </ol>
                 </ol>
             </ol>
-            <p>Even though Helen of Troy with her "invention" of the game of '<i>Micare Digitis</i>' lies deep down early in the Western Cultural History, the roots of '<i>Micare Digitis</i>' might be able to be traced to times that predate even Helen of Troy, since according to Anthony Rich, who wrote the <i>Dictionary of Roman And Greek Antiquities</i> originally in 1884, '<i>Micare Digitis</i>' or '<i>micatio</i>' is...</p> 
+            <p>Even though Helen of Troy with her "invention" of the game of '<i>Micare Digitis</i>' lies deep down early in the Western Cultural History, the roots of '<i>Micare Digitis</i>' might be able to be traced to times that predate even Helen of Troy, since according to Anthony Rich, who wrote the <i>Dictionary of Roman And Greek Antiquities</i> originally in 1884, '<i>Micare Digitis</i>' or '<i>micatio</i>' is...</p>
             <ol>
                 <ol>
                     <ol>
@@ -1188,7 +1246,7 @@
                                     <br />
                                     <br />Each player has first to settle in his own mind how many fingers he will show; then to surmise how many his opponent is likely to put up, which he does by observing his usual style of play, by remembering the numbers he last called, and those he last showed; he then adds these to his own, and calls the collective number, thus endeavouring to make the number which he calls. But as all this which takes so much time in narrating, is actually done with the greatest rapidity, the hands being opened and closed, and the numbers simultataneously called as fast as one can pronounce them — eight, two, six, ten — it requires great readiness of intellect and decision of purpose, for a player to have any chance of winning, as well as a quick eye and acute observation, to see in a moment the aggregate number of fingers shown, so at not to overlook his own success; nor, on the other hand, suffer himself to be imposed upon by a more astute opponent.</p>
                                     <p>
-                                        <b>Anthony Rich:</b> <a href="http://www.archive.org/stream/adictionaryroma00richgoog#page/n429/mode/2up">A Dictionary of Roman and Greek Antiquities: Micatio or digitis micare, page 422–423</a> with Nearly 2000 Engravings on Wood from Ancient Originals. Published 1884 or 1893. (<a href="https://archive.org/download/adictionaryroma00richgoog/adictionaryroma00richgoog.pdf">PDF</a>, 38.8 MB or a <a href="https://archive.org/stream/adictionaryroma00richgoog/adictionaryroma00richgoog_djvu.txt">txt-file</a>)      
+                                        <b>Anthony Rich:</b> <a href="http://www.archive.org/stream/adictionaryroma00richgoog#page/n429/mode/2up">A Dictionary of Roman and Greek Antiquities: Micatio or digitis micare, page 422–423</a> with Nearly 2000 Engravings on Wood from Ancient Originals. Published 1884 or 1893. (<a href="https://archive.org/download/adictionaryroma00richgoog/adictionaryroma00richgoog.pdf">PDF</a>, 38.8 MB or a <a href="https://archive.org/stream/adictionaryroma00richgoog/adictionaryroma00richgoog_djvu.txt">txt-file</a>)
                                     </p>
                                 </blockquote>
                             </ol>
@@ -1203,7 +1261,7 @@
                         <ol>
                             <ol>
                                 <blockquote>
-                                    <p>C'est le <i>micare digitis</i> ou la <i>micatio</i> des anciens Romains, qui n'a pas seulement subsisté en Italie sous le nom de <i>morra</i>, mais qui existe aussi en Chine sous le nom de «crier le poing» (à Émoui <i>hoah-koûn</i>). Il se joue par deux personnes, qui ouvrent en même temps chacune le nombre de doigts de la main droite qu'elles veulent en nommant du même coup la somme qu'elles présument devoir être celle des doigts ouverts; celle qui devine juste a gagné et impose une peine à l'autre. Si les deux joueurs devinent juste ou si tous les deux se trompent, le coup est nul. Naturellement il n'est pas permis de prononcer la somme avant ou après le moment précis ou les mains s'avancent et les doigts s'ouvrent. Quelque simple que semble ce jeu, il réclame beaucoup de vivacité d'esprit. En effet le joueur doit à chaque coup accomplir avec rapidité trois opérations, déterminer le nombre de doigts qu'il ouvre, déterminer celui qu'il suppose que son adversaire ouvre en même temps, et faire la somme. Non seulement les deux premières de ces opérations supposent de la finesse psychologique, la première, pour déjouer l'adversaire, et la seconde, pour le pénétrer; mais encore les coups se succèdent avec une grande rapidité, souvent avec des intervalles de moins d'une seconde, et pourtant chaque joueur a le plus grand intérêt à contrôler chaque coup. Il faut donc avoir l'œil aussi bien que l'esprit en alerte, d'autant plus que si celui qui gagne ne s'en aperçoit pas, son adversaire se gardera bien de le lui dire. 
+                                    <p>C'est le <i>micare digitis</i> ou la <i>micatio</i> des anciens Romains, qui n'a pas seulement subsisté en Italie sous le nom de <i>morra</i>, mais qui existe aussi en Chine sous le nom de «crier le poing» (à Émoui <i>hoah-koûn</i>). Il se joue par deux personnes, qui ouvrent en même temps chacune le nombre de doigts de la main droite qu'elles veulent en nommant du même coup la somme qu'elles présument devoir être celle des doigts ouverts; celle qui devine juste a gagné et impose une peine à l'autre. Si les deux joueurs devinent juste ou si tous les deux se trompent, le coup est nul. Naturellement il n'est pas permis de prononcer la somme avant ou après le moment précis ou les mains s'avancent et les doigts s'ouvrent. Quelque simple que semble ce jeu, il réclame beaucoup de vivacité d'esprit. En effet le joueur doit à chaque coup accomplir avec rapidité trois opérations, déterminer le nombre de doigts qu'il ouvre, déterminer celui qu'il suppose que son adversaire ouvre en même temps, et faire la somme. Non seulement les deux premières de ces opérations supposent de la finesse psychologique, la première, pour déjouer l'adversaire, et la seconde, pour le pénétrer; mais encore les coups se succèdent avec une grande rapidité, souvent avec des intervalles de moins d'une seconde, et pourtant chaque joueur a le plus grand intérêt à contrôler chaque coup. Il faut donc avoir l'œil aussi bien que l'esprit en alerte, d'autant plus que si celui qui gagne ne s'en aperçoit pas, son adversaire se gardera bien de le lui dire.
                                     </p>
                                     <p>
                                         <b>J.J.M. de Groot</b> <a href="http://lenculus.mirror.k0nsl.org/___Collection%20Chine%20ancienne__%20473__/Groot%2C%20J.%20J.%20M%20de%20-%20Les%20f%C3%AAtes%20annuellement%20c%C3%A9l%C3%A9br%C3%A9es%20%C3%A0%20%C3%89moui.%20Les%20deux%20volumes%20en%20un.pdf">'Les Fêtes Annuellement Célébrées à Émoui', page 496.</a> Published 1886, reprint 1977. (PDF, 7.5 MB) (French)
@@ -1254,9 +1312,8 @@
                 <h4>Bibliography:</h4>
                 <p>
                     <table>
-
                         <tr>
-                            <td style="padding:6px">de Groot, J.J.M. (1886):</td>                        
+                            <td style="padding:6px">de Groot, J.J.M. (1886):</td>
                             <td style="padding:6px"><a href="http://lenculus.mirror.k0nsl.org/___Collection%20Chine%20ancienne__%20473__/Groot%2C%20J.%20J.%20M%20de%20-%20Les%20f%C3%AAtes%20annuellement%20c%C3%A9l%C3%A9br%C3%A9es%20%C3%A0%20%C3%89moui.%20Les%20deux%20volumes%20en%20un.pdf">'Les Fêtes Annuellement Célébrées à Émoui', page 496.</a> Published 1886, reprint 1977. (PDF, 7.5 MB) (French)</td>
                         </tr>
                         <tr>
