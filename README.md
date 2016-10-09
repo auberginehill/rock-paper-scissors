@@ -934,7 +934,7 @@
         <td style="padding:6px">
             <h4>Micare Digitis ('Flashing Fingers' or Counting Fingers)</h4>
             <p>In Latin the verb '<i>mico</i>' strictly means, 'to have a vibrating or tremulous motion imparted'. '<i>Micare digitis</i>' properly meant 'to flash with fingers' in a game in which two persons suddenly raised or compressed the fingers and at the same moment each guessed the total number of fingers raised. It was practised both as a game of chance and as a mode of deciding doubtful matters. This game later evolved into '<i>mora</i>' or '<i>morra</i>', which is still played in Italy today.</p>
-            <p>In antiquity within the Roman cultural sphere, there was a commonly used proverb said of a thoroughly honest person, which centered around the concept of '<i>micare digitis</i>' (–  <i>dignus est, quicum [cum quo] in tenebris mices</i> – 'So honest is this person, that in the shadows could you play the game of '<i>micare digitis</i>' with him'), since it would be so easy to cheat in this game when played in the dark. Usually this proverb was used to describe men, however, since in its earliest forms '<i>micare digitis</i>' was almost exlusively played only by men.</p>
+            <p>In antiquity within the Roman cultural sphere, there was a commonly used proverb said of a thoroughly honest person, which centered around the concept of '<i>micare digitis</i>' (–  <i>dignus est, quicum [cum quo] in tenebris mices</i> – 'So honest is this person, that in the shadows could you play the game of '<i>micare digitis</i>' with him'), since it would be so easy to cheat in this game when played in the dark.</p>
             <ol>
                 <ol>
                     <ol>
