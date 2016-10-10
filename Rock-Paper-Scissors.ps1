@@ -945,7 +945,8 @@ lists over four thousand items (first edition included 818 proverbs):
 		Therefore "so honest person that you could play 'micare digitis' 
 		with him in the darkness" is said of him, who seems to be so firm in 
 		his faith, that not even if he could, would he deceive by falsehood.
-
+		(...)
+		
 
                 Desiderius Erasmus Roterodamus (AD 1466–1536, a.k.a. Erasmus of 
                 Rotterdam a.k.a. Erasmus): 'Collectanea Adagiorum' 723. I, VIII, 23. 
