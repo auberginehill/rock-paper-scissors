@@ -55,7 +55,7 @@ Begin {
     # Micare Digitis (Flashing of Fingers) - Roman
     $definition_micare_digitis = "In 'Micare Digitis' (Flashing of Fingers) each participant shows zero to five fingers after a synchronized countdown, which consists of one to three pre-steps (i.e. 1-signal to 3-2-1-signal), has elapsed. It is essential for the flow of the game for all participants (1) to know the number of pre-steps, for them to be certain, on which count the finger(s) shall be shown and (2) then to be in the same rhythm before the handsign is signalled. If at any time the players are not in synch with their pre-steps (primes), it is recommended to restart the game, since having players deliver their throw at the same time is critical in ensuring a fair match. For fairness of the play, it is recommended to agree before the playing begins on the number of rounds a participant must guess correctly (or points achieve) in order to win the match ('Micare Digitis' is usually played in a tournament-mode). In 'Micare Digitis' at the same time when a hand sign is signalled also a number, which should represent the participants guess of the total number of fingers shown on the current round, is pronounced (usually a number ranging from zero to ten is uttered). This guess is validated correct or false by the total number of fingers that can be seen. In 'Micare Digitis' ties (draws), where the participants pronounce the same number as a result that is validated as correct, per se, cannot be broken, but the occured 'Tie-Break Situation' is usually resolved by playing another round of 'Micare Digitis' immediately after the existence of 'Tie-Break Situation' has been confirmed. After each round, however, the fingers are counted to see, if anyone guessed the total number of fingers correctly. If one of the participants guessed correctly, that person wins the round, and one point is awarded to that (lucky) player. If no one guessed the right number then nobody wins that round, and no points are awarded for that round. If all participants guessed the correct answer, then it is a draw ('Tie-Break Situation') and nobody gets credit for winning the round, and no points are awarded for that round. The play continues until one of the participants reaches the number of rounds won (or points) needed to win the match."
 
-    $help_text_micare_digitis = "In 'Micare Digitis' the hand-signs are signalled with a primary hand (by extending the fingers, if any), while the secondary hand is kept out of sight, usually behind one's back. The secondary hand is usually used to count the current personal score (i.e. the number of rounds won). In 'Micare Digitis', when signalling the number three, it might be customary to use a similar hand sign to what is seen the NBA referees using while indicating a three-point-shot-attempt, where index finger is curved beside the thumb while the last three digits remain straight. When signalling the 'Zero' or 'no fingers' in 'Micare Digitis', the extended hand is accompanied with a closed fist in a similar fashion to the 'Rock' in 'Rock-paper-scissors'. Source: http://www.appalachianhistory.net/2011/09/only-play-this-game-with-honest-man.html"
+    $help_text_micare_digitis = "In 'Micare Digitis' the hand-signs are signalled with a primary hand (by extending the fingers, if any), while the secondary hand is kept out of sight, usually behind one's back. The secondary hand is usually used to count the current personal score (i.e. the number of rounds won). In 'Micare Digitis', when signalling the number three, it might be customary to use a similar hand sign to what is seen some of the NBA referees using while indicating a three-point-shot-attempt, where index finger is curved beside the thumb while the last three digits remain straight. When signalling the 'Zero' or 'no fingers' in 'Micare Digitis', the extended hand is accompanied with a closed fist in a similar fashion to the 'Rock' in 'Rock-paper-scissors'. Source: http://www.appalachianhistory.net/2011/09/only-play-this-game-with-honest-man.html & Rich, Anthony (1893):'A Dictionary of Roman and Greek Antiquities', page 422-423: http://www.archive.org/stream/adictionaryroma00richgoog#page/n429/mode/2up"
 
 
 
@@ -541,6 +541,21 @@ another throw or remain as Rock. It is customary to try to time the possible
 transition from 'Rock' to some other option as late as possible, so the opponent
 doesn't have the time to read the throw and possibly adjust to what is being played.
 
+Analyzing what happens in the Approach phase lays in the heart of 
+'Rock-paper-scissors' and judging the events occuring during that penultimate phase
+for the most part decides the fairness of the gameplay. While it seems, that this 
+1 ms machine http://www.k2.t.u-tokyo.ac.jp/fusion/Janken/index-e.html has a 100 %
+win rate against any human opponent, it actually is throwing "forced rocks" every 
+time (even in its second version), since the decision, what signal should be shown, 
+is made by the machine after the artificial hand has reached its lowest position, 
+which could resemble the 90-degree angle with its human opponents. This 
+1-ms-responce-time-machine can be beaten every time by throwing a paper against it 
+and declaring that its throw should be nullified as a "forced rock", since the 
+resulting "Scissors" was decided by the machine after the artificial hand had 
+reached its lowest position and at the time the artificial hand had reached its 
+lowest position the hand was showing a "Rock" signal and after the artificial hand 
+had reached its lowest position the machine then (quickly) changed its throw.
+
 
 Multiplayer Modes
 
@@ -720,12 +735,11 @@ chance and as a mode of deciding doubtful matters. This game later evolved into
 'mora' or 'morra', which is still played in Italy today.
 
 In antiquity within the Roman cultural sphere, there was a commonly used proverb 
-said of a thoroughly honest person, which centered around the concept of 'micare 
-digitis' (dignus est, quicum in tenebris mices - 'So honest is this person, that 
-in the shadows could you play the game of 'micare digitis' with him'), since 
-it would be so easy to cheat in this game when played in the dark. Usually this 
-proverb was used to describe men, however, since in its earliest forms 'micare 
-digitis' was almost exlusively played only by men.   
+said of a thoroughly honest person, which centered around the concept of 
+'micare digitis' (– dignus est, quicum [cum quo] in tenebris mices – 
+'So honest is this person, that in the shadows could you play the game of 
+'micare digitis' with him'), since it would be so easy to cheat in this game when 
+played in the dark.   
 
 
                 Haec non turpe est dubitare philosophos, quae ne rustici quidem 
@@ -748,7 +762,6 @@ digitis' was almost exlusively played only by men.
                 http://www.gutenberg.org/files/47001/47001-h/47001-h.htm
                 https://ia601403.us.archive.org/27/items/mtulliuscicerod00cicegoog/mtulliuscicerod00cicegoog.pdf
                         Sim.       http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2007.01.0047%3Abook%3D3%3Asection%3D77
-
 
 
 In the Satyricon, Gaius Petronius Arbiter (AD 27–66, a.k.a Petronius) tells his 
@@ -775,12 +788,172 @@ Petronius, tells the other guests about Safinius, that...
                 http://www.sacred-texts.com/cla/petro/satyr/sat08.htm#XLIV
 
 
-As Marcus Tullius Cicero (106–43 BC, a.k.a. Κικέρων) pointed out, the proverb 
-concerning playing 'micare digitis' in the dark was already quite old in his time, 
-(Cic. Off. 3.19.77) and furthermore in another part of 'De Officiis' he seems to be 
-indicating that the praxis of 'micare digitis' was not unknown to the Greek either, 
-when he is discussing the works of Hecaton (c. first-second century BC, a.k.a. 
-Hecaton of Rhodes) (Cic. Off. 3.23.89-90):
+In fact, 'Micare Digitis' became so deeply enrooted in the cultural landscape of 
+Rome, that traces of its usage found its way into legal binding documents, such as 
+an edict listed below concerning the validation of a transaction (dating perhaps 
+AD 339, when Lucius Turcius Apronianus (father) or AD 363-4, when Lucius Turcius 
+Apronianus, signo Asterius (son) was a Praefectus Urbi (of the city of Rome))...
+
+
+                Ex auctoritate Turci Aproniani v(iri) c(larissimi), Praefecti 
+                Urbis. Ratio docuit utilitate suadente, consuetudine micandi 
+                summota sub exagio potius pecora vendere, quam digitis 
+                conludentibus [concludentibus] tradere,...
+
+
+                (Inscr. Orell. 3166) Johann Caspar Orelli (c. AD 1787–1849): 
+                'Inscriptionum Latinarum selectarum amplissima collectio', 3166. 
+                Ad Illustrandam Romanae Antiquitatis by Johann Caspar von Orellius, 
+                Wilhelm Henzen. Published 1828. or 'Orellii inscriptionum Latinarum 
+                selectarum collectio', 3166: Turici 1828.
+                https://archive.org/details/inscriptionumla01henzgoog
+                https://ia902608.us.archive.org/21/items/inscriptionumla01henzgoog/inscriptionumla01henzgoog.pdf
+                Corpus Inscriptionum Latinarum: CIL VI 1770 (Latin):
+                http://arachne.uni-koeln.de/item/buchseite/580887
+                And concerning Lucius Turcius Apronianus: 
+                http://www.keytoumbria.com/Umbria/4th_Century__Inscriptions_Later_Latin.html
+                http://cil.bbaw.de/cil_en/dateien/db_eng.php?nummer=VI+1768&andor=AND&nummer2=&fundort_antik=&fundort_modern=&provinz=
+                http://laststatues.classics.ox.ac.uk/database/discussion.php?id=1841
+
+
+...and to the Christian teachings, where the number three in 'Micare Digitis' was 
+used by Aurelius Augustinus Hipponensis (AD 354-430, a.k.a. Augustine of Hippo, 
+the coadjutor Bishop of Hippo since 395, who became full Bishop shortly thereafter) 
+as a comparison to the concept of Christian 'trinity' within the Christian dogma, 
+when trying to define the boundaries of the Christian concept of 'trinity', in the 
+eight book of 'De Trinitate' (VIII.5.8) (On the trinity), published perhaps around 
+AD 417, but certainly between AD 400 and 428...
+
+
+                [8] Quamobrem quoniam trinitatis aeternitatem et aequalitatem et 
+                unitatem quantum datur intellegere cupimus, prius autem quam 
+                intellegamus credere debemus vigilandumque nobis est ne ficta sit 
+                fides nostra. Eadem quippe trinitate fruendum est ut beate vivamus; 
+                si autem falsum de illa crediderimus, inanis erit spes et non 
+                casta caritas. Quomodo igitur eam trinitatem quam non novimus 
+                credendo diligimus?
+                (...)
+                Cum ergo dicimus et credimus esse trinitatem, novimus quid sit 
+                trinitas quia novimus quid sint tria; sed hoc non diligimus. 
+                Nam id ubi volumus facile habemus, ut alia omittam vel micando 
+                digitis tribus. An vero diligimus non quod omnis trinitas sed 
+                quod trinitas deus?
+
+
+                [8] Wherefore, since we desire to understand the eternity, and 
+                equality, and unity of the trinity, as much as is permitted us, 
+                but ought to believe before we understand; and since we must watch 
+                carefully, that our faith be not feigned; since we must have the 
+                fruition of the same trinity, that we may live blessedly; but if 
+                we have believed anything false of it, our hope would be worthless, 
+                and our charity not pure: how then can we love, by believing, 
+                that trinity which we do not know?
+                (...)
+                When, therefore, we say and believe that there is a trinity, we 
+                know what a trinity is, because we know what three are; but this is 
+                not what we love. For we can easily have this whenever we will, to 
+                pass over other things, by just holding up three fingers [lit. 
+                flashing three fingers]. Or do we indeed love, not every trinity, 
+                but the trinity, that is god?
+
+
+                Aurelius Augustinus Hipponensis (AD 354–430, a.k.a. Augustine of 
+                Hippo): 'De Trinitate' Liber VIII.5.8 (On the trinity, Book VIII 
+                Chapter 5.8)
+                http://www.thelatinlibrary.com/augustine/trin8.shtml
+                http://www.newadvent.org/fathers/130108.htm
+
+
+...and to the poetry, as Titus Calpurnius Siculus (perhaps second or third 
+century AD) in his second pastoral poem in 'Eclogue' (sometimes inscribed as Crotale)
+has his characters Astacus and Idas about to be endulged in an amoebaean song contest, 
+when Thyrsis (which might be a nod to the same Thyrsis, which appears on the Bucolic 
+Idyll 1 by Θεόκριτος (c. 3rd century BC, a.k.a. Theokritos, a.k.a. Theocritus, the 
+creator of ancient Greek bucolic poetry) declares that the prize should be glory 
+alone and that the starter should be decided by the best score out of three rounds 
+of 'Micare Digitis':
+
+
+                Convenit umbrosa quicumque sub ilice lentas
+                pascit oves, Faunusque pater Satyrique bicornes;
+                Adfuerunt sicco Dryades pede, Naides udo,
+                et tenuere suos properantia flumina cursus;
+                Desistunt tremulis incurrere frondibus Euri
+                altaque per totos fecere silentia montes:
+                Omnia cessabant, neglectaque pascua tauri
+                calcabant, illis etiam certantibus ausa est
+                daedala nectareos apis intermittere flores.
+                Iamque sub annosa medius consederat umbra
+                Thyrsis et "O pueri me iudice pignora," dixit,
+                "irrita sint moneo: satis hoc mercedis habeto,
+                si laudem victor, si fert opprobria victus.
+                Et nunc alternos magis ut distinguere cantus
+                possitis, ter quisque manus iactate micantes."
+                Nec mora: decernunt digitis, prior incipit Idas.
+
+
+                There met every shepherd who feeds his lazy flocks beneath the shady 
+                oak, and Father Faunus too and the twy-horned Satyrs. Dry-foot the 
+                wood-nymphs came; with watery feet the river-nymphs; and hastening 
+                torrents stayed their courses. East-winds ceased their rush upon the 
+                quivering leaves and so made deep silence over all the hills; 
+                everything stood idle; bulls trampled the pasture, which they heeded 
+                not; during that contest even the craftsman bee ventured to leave
+                unvisited the nectar-yielding flowers. Now under the shade of an 
+                aged tree had Thyrsis taken his seat between them and said, "Lads, 
+                if I am to be judge, I urge that the stakes count for nothing. Let 
+                suffer recompense be won herefrom, if the victor take the glory and 
+                the vanquished the reproach. Now, the better to mark off your 
+                alternate songs, raise in sudden movement each your hands three 
+                times." They obey at once. The finger-trial decides, 
+                and Idas begins first.
+
+
+                (Calp. Sic. 2, 12–27) Titus Calpurnius Siculus (perhaps second or 
+                third century AD): 'Eclogis Calpurni Siculi' 2, 12–27 
+                (Eclogues of Calpurnius Siculus 2, 12–27)
+                http://penelope.uchicago.edu/Thayer/L/Roman/Texts/Calpurnius_Siculus/Eclogues/2*.html
+                https://ia601406.us.archive.org/33/items/ecloguesofcalpur00calpuoft/ecloguesofcalpur00calpuoft.pdf
+                http://penelope.uchicago.edu/Thayer/L/Roman/Texts/Calpurnius_Siculus/Eclogues/2*.html
+
+
+The tradition of 'Micare Digitis' continued uninterruptedly at least to the times of
+Desiderius Erasmus Roterodamus (AD 1466–1536, a.k.a. Erasmus of Rotterdam a.k.a. 
+Erasmus), since with a spectacular accuracy he is able to describe the intrinsics of 
+'Micare Digitis' under the header 'Dignvs Qvicvm in Tenebris Mices' in his collection 
+of Greek and Latin proverbs called 'Collectanea Adagiorum' (Adages), which dates to 
+AD 1500, 1508, 1515 or 1533 depending on the edition, and which in its latest edition 
+lists over four thousand items (first edition included 818 proverbs):
+
+
+                Qui certissima esset fide, eum dignum dicebant quicum in tenebris
+                micaretur. (...) Est autem micare lusus genus quoddam, quod adhuc 
+                apud Italos durat, ut repente porrectis digitis certantium uterque 
+                numerum divinet. (...) Porro quicum micas in tenebris, ei liberum 
+                est, si velit fallere. Proinde dignus quicum in tenebris mices 
+                dicitur, qui sit usqueadeo certa fide, ut nec si tuto possit, velit 
+                quempiam mendacio fallere. (...)
+
+
+                Desiderius Erasmus Roterodamus (AD 1466–1536, a.k.a. Erasmus of 
+                Rotterdam a.k.a. Erasmus): 'Collectanea Adagiorum' 723. I, VIII, 23. 
+                (A Collection of Greek and Latin proverbs 723. I, VIII, 23. - 
+                The 'Adages' of Erasmus)
+                http://jvpoll.home.xs4all.nl/back/Web/erasweb8.htm#a723
+                https://web.archive.org/web/20110929193309/http://sites.univ-lyon2.fr/lesmondeshumanistes/wp-content/uploads/2010/09/Adages-tome-1.pdf
+                https://web.archive.org/web/20110619002744/http://sites.univ-lyon2.fr:80/lesmondeshumanistes/category/adages-erasme/
+                https://web.archive.org/web/20120114123112/http://sites.univ-lyon2.fr/lesmondeshumanistes/wp-content/uploads/Adages.pdf
+                http://www.andreascenter.org/Articles/Erasmus.htm
+                http://quod.lib.umich.edu/e/eebo/A38569.0001.001/1:2?rgn=div1;view=fulltext
+
+
+When trying to find out the origins of the game of 'micare digitis', as already 
+pointed out by Marcus Tullius Cicero (106–43 BC, a.k.a. Κικέρων), the proverb 
+concerning playing 'micare digitis' in the dark was already quite old in his own 
+time (Cic. Off. 3.19.77), but furthermore in another part of 'De Officiis' Cicero 
+seems also to be indicating that the praxis of 'micare digitis' was not unknown to 
+the Greek either, when he is discussing the works of Ἑκάτων (c. first-second 
+century BC, a.k.a. Hecaton of Rhodes, a.k.a. Hecaton) (Cic. Off. 3.23.89–90):
 
 
                 Plenus est sextus liber de officiis Hecatonis talium quaestionum: 
@@ -817,7 +990,7 @@ Hecaton of Rhodes) (Cic. Off. 3.23.89-90):
 
 
 A Roman scholar and writer Marcus Terentius Varro (116–27 BC, a.k.a. Varro Reatinus 
-a.k.a. Varro) is confirming, that 'micare digitis' is known in the realm of 
+a.k.a. Varro) is indeed confirming, that 'micare digitis' is known in the realm of 
 ancient Greece, too, in one of the fragments of Menippean Satires
 
 
@@ -840,14 +1013,193 @@ ancient Greece, too, in one of the fragments of Menippean Satires
                 http://www.philological.bham.ac.uk/polyadag/1alat.html
 
 
+However, it is Πτολεμαῖος Ἡφαιστίων (a.k.a. Ptolemaios Hephaestion a.k.a. Ptolemaeus 
+Hephaestion a.k.a. Ptolemy Hephaestion) according to whom the tradition of 
+'Micare Digitis' may have originated from Ἑλένη (a.k.a. Helen of Troy, who usually 
+was considered to be a daughter of Zeus and Leda and the sister of Polydeuces and 
+Castor (the Dioscuri); some traditions called her a daughter of Zeus and Nemesis), 
+a view that is preserved only in the second hand sources, most notably in a work by 
+Φώτιος (c. AD 810–893, a.k.a. Photios I of Constantinople, a.k.a. Photius, a.k.a. 
+Fotios, the Ecumenical Patriarch of Constantinople AD 858–867 and AD 877–886) called 
+Βιβλιοθήκη (Library), which is a collection of 280 codices (chapters or full 
+volumes) devoted to ancient authors, in each citing extracts of the original text 
+or providing summaries of the texts of the originals, which to a great extent are 
+now believed to be lost as originals. In the 190th codex (cod. 190) of Βιβλιοθήκη, 
+Φώτιος records a work by Πτολεμαῖος Ἡφαιστίων in six books, which is usually 
+assigned to Πτολεμαῖος Χέννος (2nd century AD, a.k.a. Ptolemaeus Chennus a.k.a. 
+Ptolemy Chennos of Alexandria a.k.a. Ptolemy Chennos, who was was a Greek grammarian
+and might or might not be a son of a certain Hephaestion), in which many details and
+characters seem to have been invented by the author, rather than come from the 
+arduous work of research and as such could be considered as a visionary rather 
+than a historical document:
+
+
+                Ἀνεγνώσθη Πτολεμαίου τοῦ Ἡφαιστίωνος περὶ τῆς εἰς πολυμαθίαν καινῆς 
+                ἱστορίας λόγοι Ϛ'. Χρήσιμον ὡς ἀληθῶς τὸ βιβλίον τοῖς περὶ τὴν 
+                ἱστορικὴν πολυμαθίαν πονεῖν ὡρμημένοις· ἔχει γὰρ δοῦναι συνειλεγμένα 
+                βραχεῖ χρόνῳ εἰδέναι, ἃ σποράδην τις τῶν βιβλίων ἀναλέγειν πόνον 
+                δεδεγμένος μακρὸν κατατρίψει βίον. Ἔχει δὲ πολλὰ καὶ τερατώδη καὶ 
+                κακόπλαστα, καὶ τὸ ἀλογώτερον, ὅτι καὶ ἐνίων μυθαρίων αἰτίας, δι´ 
+                ἃς ὑπέστησαν, ἀποδιδόναι πειρᾶται.
+
+                Ὁ μέντοι τούτων συναγωγεὺς ὑπόκενός τέ ἐστι καὶ πρὸς ἀλαζονείαν 
+                ἐπτοημένος, καὶ οὐδ´ ἀστεῖος τὴν λέξιν. Προσφωνεῖ δὲ τὸ σύνταγμα 
+                Τερτύλλᾳ τινί, ἣν καὶ δέσποιναν ἀνυμνεῖ καὶ τὸ φιλολόγον αὐτῇ καὶ 
+                πολυμαθὲς ἐπιφημίζει. Διαβάλλει δ´ ἐνίους καὶ τῶν πρὸ αὐτοῦ οὐχ 
+                ὑγιῶς ἐπιβαλόντας τῇ ὑποθέσει. Τά γε μὴν πλεῖστα τῶν ἱστορουμένων 
+                ὑπ´ αὐτοῦ, καὶ ὅσα τοῦ ἀπιθάνου καὶ ἀπίστου καθαρεύει, παρηλλαγμένην
+                ὅμως καὶ οὐκ ἄχαρι εἰδέναι τὴν μάθησιν ἐμπαρέχει.
+                (...)
+                Τὸ δὲ δʹ διεξέρχεται ὡς Ἑλένη πρώτη ἐπενόησε τὸν διὰ δακτύλων 
+                κλῆρον, καὶ Ἀλεξάνδρῳ λαχοῦσα ἐνίκησε· καὶ ὡς Ἀφροδίτης εἴη θυγάτηρ.
+
+
+                Read Ptolemy Hephaestion, New History, intended for scholarship in 
+                six books, a work really useful for those who undertake to attempt 
+                erudition in history; it can, in fact, give the method to know in a 
+                short time connected elements, whereas a long life would be consumed 
+                in the effort of locating them in the books through which they are 
+                scattered. It abounds in extraordinary and badly imagined 
+                information; and the peak of absurdity is that he attempts, for 
+                certain trivial fables, to explain the reasons for their appearance.
+
+                As for the collector who has assembled these stories, he is a 
+                somewhat credulous spirit, inclined to boastfulness and who has no 
+                other distinction in his language. He dedicates his work to a 
+                certain Tertulla whom he celebrates as his "lady" and whose love for
+                letters and scholarship he praises. He attacks some of his 
+                detractors whom he accuses of having approached the subject in an 
+                unhealthy way. In any case, the majority of his stories which are 
+                free of things impossible to believe, offer a knowledge above the 
+                ordinary, but which is not unpleasing.
+                (...)
+                The fourth recounts that Helen was the first to imagine drawing lots
+                with the fingers and that she won at chance with Alexander; she was 
+                the daughter of Aphrodite [usually Helen was considered to be a 
+                daughter of Zeus and Leda and the sister of Polydeuces and Castor 
+                (the Dioscuri); some traditions called her a daughter of Zeus and 
+                Nemesis].
+
+
+                Φώτιος (c. AD 810–893, a.k.a. Photios I of Constantinople, a.k.a. 
+                Photius, a.k.a. Fotios, the Ecumenical Patriarch of Constantinople 
+                AD 858–867 and AD 877–886): Βιβλιοθήκη (Library) or Μυριόβιβλος 
+                (Myriobiblos, "Ten Thousand Books"), 190. Ptolemy Chennus, New History
+                http://remacle.org/bloodwolf/erudits/photius/ptolemee.htm
+                http://www.tertullian.org/fathers/photius_copyright/photius_05bibliotheca.htm#190
+                http://www.english.illinois.edu/maps/poets/g_l/hd/abouthelen.htm
+                http://www.photius.com/photios/photios15.html
+                https://archive.org/stream/adictionarygree00smitgoog/adictionarygree00smitgoog_djvu.txt
+                https://ia800304.us.archive.org/0/items/adictionarygree00smitgoog/adictionarygree00smitgoog.pdf
+
+
+Even though Helen of Troy with her "invention" of the game of 'Micare Digitis' lays 
+deep down early in the Western Cultural History, the roots of 'Micare Digitis' might 
+be able to be traced to times that predate even Helen of Troy, since according to 
+Anthony Rich, who wrote the Dictionary of Roman And Greek Antiquities originally 
+in 1884, 'Micare Digitis' or 'micatio' is...
+
+
+                a game of chance, combined with skill, still common in the south of 
+                Italy, where it now goes by the name of Morra. (Varro. ap. Non. 
+                s. v. p. 547. Calpurn. Ed. ii. 26.) It is played by two persons in 
+                the following manner. Both hold up their right hands with the fist 
+                closed; they then simultaneously extend a certain number of their 
+                fingers, calling out at the same time by guesswork the collective 
+                number extended by the two together, and he who succeeds in naming 
+                the right number wins the game. The annexed figures, representing a 
+                couple of Egyptians playing at morra from a painting in the tombs, 
+                testify the very great antiquity of the game, and will serve to 
+                convey a distinct notion of the manner in which it was conducted to 
+                those who have never seen it played. It is the same as that still 
+                practised, with the exception that the performers are in a sitting 
+                instead of a standing posture, as is now usual; and that they appear 
+                to make use of all their fingers, instead of the right hand only, 
+                which must have greatly increased the difficulty and intricacy of 
+                the game, as it admits the various combinations which might be made 
+                out of twenty numbers instead of ten only. The right-hand figure has 
+                extended all the fingers of his right hand, and three of his left; 
+                his opponent puts out two with the right hand, and three on the left 
+                one; thus the number exhibited is thirteen. If either of the parties 
+                cry out "thirteen" at the moment of opening their hands, but before 
+                the opened fingers are actually displayed, he wins; if neither 
+                succeeds in guessing right, they again close their hands, cry out 
+                a number, and open the fingers until one of them calls the right 
+                amount. What appears to be so simple is most difficult to execute 
+                with any chance of success, and requires more skill and calculation 
+                than a person, who had not himself made the experiment, would imagine.
+
+                Each player has first to settle in his own mind how many fingers he 
+                will show; then to surmise how many his opponent is likely to put up, 
+                which he does by observing his usual style of play, by remembering 
+                the numbers he last called, and those he last showed; he then adds 
+                these to his own, and calls the collective number, thus endeavouring 
+                to make the number which he calls. But as all this which takes so 
+                much time in narrating, is actually done with the greatest rapidity, 
+                the hands being opened and closed, and the numbers simultataneously 
+                called as fast as one can pronounce them — eight, two, six, ten — it 
+                requires great readiness of intellect and decision of purpose, for 
+                a player to have any chance of winning, as well as a quick eye and 
+                acute observation, to see in a moment the aggregate number of fingers 
+                shown, so at not to overlook his own success; nor, on the other hand, 
+                suffer himself to be imposed upon by a more astute opponent.
+
+
+                Anthony Rich: A Dictionary of Roman and Greek Antiquities: Micatio or 
+                digitis micare, page 422–423 with Nearly 2000 Engravings on Wood from 
+                Ancient Originals. Published 1884 or 1893.
+                http://www.archive.org/stream/adictionaryroma00richgoog#page/n429/mode/2up
+                https://archive.org/download/adictionaryroma00richgoog/adictionaryroma00richgoog.pdf
+                https://archive.org/stream/adictionaryroma00richgoog/adictionaryroma00richgoog_djvu.txt
+
+
+In its rich history 'Micare Digitis' has had a wide cultural impact, which is 
+demonstrated to us, for instance, by J.J.M. de Groot, since when discussing the 
+annual festivals celebrated in Émoi he makes a remark that 'Micare Digitis' with the 
+identical set of rules is also known in China by the name 'hoah-koûn' («crier le poing» 
+or "shout fist"):
+
+
+                C'est le micare digitis ou la micatio des anciens Romains, qui n'a 
+                pas seulement subsisté en Italie sous le nom de morra, mais qui 
+                existe aussi en Chine sous le nom de «crier le poing» (à Émoui 
+                hoah-koûn). Il se joue par deux personnes, qui ouvrent en même temps
+                chacune le nombre de doigts de la main droite qu'elles veulent en 
+                nommant du même coup la somme qu'elles présument devoir être celle 
+                des doigts ouverts; celle qui devine juste a gagné et impose une 
+                peine à l'autre. Si les deux joueurs devinent juste ou si tous les 
+                deux se trompent, le coup est nul. Naturellement il n'est pas permis
+                de prononcer la somme avant ou après le moment précis ou les mains 
+                s'avancent et les doigts s'ouvrent. Quelque simple que semble ce jeu,
+                il réclame beaucoup de vivacité d'esprit. En effet le joueur doit 
+                à chaque coup accomplir avec rapidité trois opérations, déterminer 
+                le nombre de doigts qu'il ouvre, déterminer celui qu'il suppose que 
+                son adversaire ouvre en même temps, et faire la somme. Non seulement 
+                les deux premières de ces opérations supposent de la finesse 
+                psychologique, la première, pour déjouer l'adversaire, et la seconde, 
+                pour le pénétrer; mais encore les coups se succèdent avec une grande 
+                rapidité, souvent avec des intervalles de moins d'une seconde, et 
+                pourtant chaque joueur a le plus grand intérêt à contrôler chaque 
+                coup. Il faut donc avoir l'œil aussi bien que l'esprit en alerte, 
+                d'autant plus que si celui qui gagne ne s'en aperçoit pas, son 
+                adversaire se gardera bien de le lui dire.
+
+                J.J.M. de Groot 'Les Fêtes Annuellement Célébrées à Émoui', page 496. 
+                Published 1886, reprint 1977.
+                http://lenculus.mirror.k0nsl.org/___Collection%20Chine%20ancienne__%20473__/Groot%2C%20J.%20J.%20M%20de%20-%20Les%20f%C3%AAtes%20annuellement%20c%C3%A9l%C3%A9br%C3%A9es%20%C3%A0%20%C3%89moui.%20Les%20deux%20volumes%20en%20un.pdf
+
+
 Source:     http://www.appalachianhistory.net/2011/09/only-play-this-game-with-honest-man.html
             http://www.perseus.tufts.edu/hopper/morph?l=Micare&la=la#lexicon
-
-
+            Anthony Rich: A Dictionary of Roman and Greek Antiquities: Micatio or digitis micare, page 422–423 with Nearly 2000 Engravings on Wood from Ancient Originals. Published 1884 or 1893.
+            http://www.archive.org/stream/adictionaryroma00richgoog#page/n429/mode/2up
+            https://archive.org/download/adictionaryroma00richgoog/adictionaryroma00richgoog.pdf
+            https://archive.org/stream/adictionaryroma00richgoog/adictionaryroma00richgoog_djvu.txt
+            J.J.M. de Groot 'Les Fêtes Annuellement Célébrées à Émoui', page 496. Published 1886, reprint 1977.
+            http://lenculus.mirror.k0nsl.org/___Collection%20Chine%20ancienne__%20473__/Groot%2C%20J.%20J.%20M%20de%20-%20Les%20f%C3%AAtes%20annuellement%20c%C3%A9l%C3%A9br%C3%A9es%20%C3%A0%20%C3%89moui.%20Les%20deux%20volumes%20en%20un.pdf
 
 
 ___________________________
-
 
 
   ____  _ _     _ _                             _
@@ -862,6 +1214,9 @@ ___________________________
 Bibliography:
 
 
+de Groot, J.J.M. (1886):    'Les Fêtes Annuellement Célébrées à Émoui', page 496. Published 1886, reprint 1977.
+                            http://lenculus.mirror.k0nsl.org/___Collection%20Chine%20ancienne__%20473__/Groot%2C%20J.%20J.%20M%20de%20-%20Les%20f%C3%AAtes%20annuellement%20c%C3%A9l%C3%A9br%C3%A9es%20%C3%A0%20%C3%89moui.%20Les%20deux%20volumes%20en%20un.pdf
+
 Linhart, Sepp and Sabine Frühstück (1998):    'The Culture of Japan as Seen through Its Leisure'
                                               https://books.google.com/books?id=k_Cb7a6FQwwC&pg=PA325
 
@@ -869,9 +1224,14 @@ Linhart, Sepp (1995):   'Some Thoughts on the Ken Game in Japan: From the Viewpo
                         Senri Ethnological Studies 40: 101-124. http://tinyurl.com/zju37c2
                         https://minpaku.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=3017&item_no=1&page_id=13&block_id=21
 
+Rich, Anthony (1893):   'A Dictionary of Roman and Greek Antiquities': Micatio or digitis micare, page 422–423 with Nearly 2000 Engravings on Wood from Ancient Originals. Published 1884 or 1893.
+                        http://www.archive.org/stream/adictionaryroma00richgoog#page/n429/mode/2up
+                        https://archive.org/download/adictionaryroma00richgoog/adictionaryroma00richgoog.pdf
+                        https://archive.org/stream/adictionaryroma00richgoog/adictionaryroma00richgoog_djvu.txt
 
-
-
+Smith, William (1849):  Dictionary of Greek and Roman Biography and Mythology Published 1849.
+                        https://archive.org/stream/adictionarygree00smitgoog/adictionarygree00smitgoog_djvu.txt
+                        https://ia800304.us.archive.org/0/items/adictionarygree00smitgoog/adictionarygree00smitgoog.pdf
 
 
 
@@ -1229,13 +1589,13 @@ Please see the Description section below for definitions of each game.
                             the current personal score (i.e. the number of rounds
                             won). In 'Micare Digitis', when signalling the number
                             three, it might be customary to use a similar hand sign 
-                            to what is seen the NBA referees using while indicating 
-                            a three-point-shot-attempt, where index finger is curved
-                            beside the thumb while the last three digits remain
-                            straight. When signalling the 'Zero' or 'no fingers' in
-                            'Micare Digitis', the extended hand is accompanied with
-                            a closed fist in a similar fashion to the 'Rock' in
-                            'Rock-paper-scissors'."
+                            to what is seen some of the NBA referees using while 
+                            indicating a three-point-shot-attempt, where index 
+                            finger is curved beside the thumb while the last three 
+                            digits remain straight. When signalling the 'Zero' or 
+                            'no fingers' in 'Micare Digitis', the extended hand is 
+                            accompanied with a closed fist in a similar fashion to 
+                            the 'Rock' in 'Rock-paper-scissors'."
                             Source: http://www.appalachianhistory.net/2011/09/only-play-this-game-with-honest-man.html
 
 
