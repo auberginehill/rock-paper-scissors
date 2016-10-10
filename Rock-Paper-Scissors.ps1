@@ -935,6 +935,18 @@ lists over four thousand items (first edition included 818 proverbs):
                 quempiam mendacio fallere. (...)
 
 
+		Of those people that are trusted, him, with whom 'micare digitis' 
+		could be played in the darkness, was said to be be worthy of the 
+		trust. (...) 'Micare digitis' is, however, a kind of game, which is 
+		still practiced among the Italians, in which in a competing fashion 
+		at the same time suddenly fingers are stretched out and their total 
+		number is guessed. (...) If the one, with whom 'micare digitis' is 
+		played in the darkness, wishes to deceive, he is free to do so. 
+		Therefore "so honest person that you could play 'micare digitis' 
+		with him in the darkness" is said of him, who seems to be so firm in 
+		his faith, that not even if he could, would he deceive by falsehood.
+
+
                 Desiderius Erasmus Roterodamus (AD 1466–1536, a.k.a. Erasmus of 
                 Rotterdam a.k.a. Erasmus): 'Collectanea Adagiorum' 723. I, VIII, 23. 
                 (A Collection of Greek and Latin proverbs 723. I, VIII, 23. - 
