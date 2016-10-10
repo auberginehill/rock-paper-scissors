@@ -1112,6 +1112,18 @@
                                         <br /><a href="http://quod.lib.umich.edu/e/eebo/A38569.0001.001/1:2?rgn=div1;view=fulltext">The Life of Erasmus</a> Published 1699.
                                     </p>
                                 </blockquote>
+                                <h4>Translation</h4>
+                                <blockquote>
+                                    <p>Of those people that are trusted, him, with whom 'micare digitis' could be played in the darkness, was said to be be worthy of the trust. (...) 'Micare digitis' is, however, a kind of game, which is still practiced among the Italians, in which in a competing fashion at the same time suddenly fingers are stretched out and their total number is guessed. (...) If the one, with whom 'micare digitis' is played in the darkness, wishes to deceive, he is free to do so. Therefore "so honest person that you could play 'micare digitis' with him in the darkness" is said of him, who seems to be so firm in his faith, that not even if he could, would he deceive by falsehood.
+                                    </p>
+                                    <p>
+                                        <b>Desiderius Erasmus Roterodamus</b> (AD 1466–1536, a.k.a. Erasmus of Rotterdam a.k.a. Erasmus): 'Collectanea Adagiorum' 723. I, VIII, 23. (A Collection of Greek and Latin proverbs 723. I, VIII, 23. - The 'Adages' of Erasmus)
+                                        <br /><a href="http://jvpoll.home.xs4all.nl/back/Web/erasweb8.htm#a723">'Collectanea Adagiorum' 723. I, VIII, 23.</a> (Latin)
+                                        <br /><a href="https://web.archive.org/web/20110929193309/http://sites.univ-lyon2.fr/lesmondeshumanistes/wp-content/uploads/2010/09/Adages-tome-1.pdf">Les Adages D'Érasme, Tome I</a> (PDF, 5 MB, <a href="https://web.archive.org/web/20110619002744/http://sites.univ-lyon2.fr:80/lesmondeshumanistes/category/adages-erasme/">other parts</a> or <a href="https://web.archive.org/web/20120114123112/http://sites.univ-lyon2.fr/lesmondeshumanistes/wp-content/uploads/Adages.pdf">all Adages</a> (PDF, 14 MB with 2606 pages) (Latin)
+                                        <br /><a href="http://www.andreascenter.org/Articles/Erasmus.htm">Erasmus</a>
+                                        <br /><a href="http://quod.lib.umich.edu/e/eebo/A38569.0001.001/1:2?rgn=div1;view=fulltext">The Life of Erasmus</a> Published 1699.
+                                    </p>                                    
+                                </blockquote>
                             </ol>
                         </ol>
                     </ol>
