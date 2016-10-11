@@ -254,7 +254,7 @@
                                     <tr>
                                         <td style="padding:6px"><strong>(1) 手勢令 (Shoushiling)</strong></td>
                                         <td style="padding:6px">
-                                            <p>In 手勢令 (Shoushiling, literally: 'hand command') each participant shows one of the three hand signals after a synchronized countdown, which consists of one to three pre-steps (i.e. 1-signal to 3-2-1-signal), has elapsed. It is essential for the flow of the game for all participants (1) to know the number of pre-steps, for them to be certain, on which count the signal shall be released and (2) then to be in the same rhythm before the handsigns are signalled. If at any time the players are not in synch with their pre-steps (primes), it is recommended to restart the game, since having players deliver their throw at the same time is critical in ensuring a fair match. For fairness of the play, it is recommended to agree on the number of rounds to be played before the playing begins, so that each participant will know whether the outcome will be decided in one go or whether the game is in a tournament mode (best out of [uneven_number_of_rounds]). The released hand signs each have an inherent value in which one sign will always be better than the released hand sign and another hand sign will be worse than the released hand sign – furthermore it is ordained that all the signs together are valued successively so that they form an 'Infinite Loop of Betterness'. In 手勢令 (Shoushiling) this loop is formed by valuing the hand signals as follows:</p>
+                                            <p>In 手勢令 (Shoushiling or 'shǒushìlìng', literally: 'hand command') each participant shows one of the three hand signals after a synchronized countdown, which consists of one to three pre-steps (i.e. 1-signal to 3-2-1-signal), has elapsed. It is essential for the flow of the game for all participants (1) to know the number of pre-steps, for them to be certain, on which count the signal shall be released and (2) then to be in the same rhythm before the handsigns are signalled. If at any time the players are not in synch with their pre-steps (primes), it is recommended to restart the game, since having players deliver their throw at the same time is critical in ensuring a fair match. For fairness of the play, it is recommended to agree on the number of rounds to be played before the playing begins, so that each participant will know whether the outcome will be decided in one go or whether the game is in a tournament mode (best out of [uneven_number_of_rounds]). The released hand signs each have an inherent value in which one sign will always be better than the released hand sign and another hand sign will be worse than the released hand sign – furthermore it is ordained that all the signs together are valued successively so that they form an 'Infinite Loop of Betterness'. In 手勢令 (Shoushiling) this loop is formed by valuing the hand signals as follows:</p>
                                             <ol>
                                                 <table>
                                                     <tr>
@@ -315,7 +315,7 @@
                                     <tr>
                                         <td style="padding:6px"><strong>(2) 虫拳 (Mushi-ken)</strong></td>
                                         <td style="padding:6px">
-                                            <p>In 虫拳 (Mushi-ken) (ken ('fist') of the small animals, one of the games of 三竦み拳 ('sansukumi-ken', ken ('fist') of the three who are afraid of one another)) each participant shows one of the three hand signals after a synchronized countdown, which consists of one to three pre-steps (i.e. 1-signal to 3-2-1-signal), has elapsed. It is essential for the flow of the game for all participants (1) to know the number of pre-steps, for them to be certain, on which count the signal shall be released and (2) then to be in the same rhythm before the handsigns are signalled. If at any time the players are not in synch with their pre-steps (primes), it is recommended to restart the game, since having players deliver their throw at the same time is critical in ensuring a fair match. For fairness of the play, it is recommended to agree on the number of rounds to be played before the playing begins, so that each participant will know whether the outcome will be decided in one go or whether the game is in a tournament mode (best out of [uneven_number_of_rounds]). The released hand signs each have an inherent value in which one sign will always be better than the released hand sign and another hand sign will be worse than the released hand sign – furthermore it is ordained that all the signs together are valued successively so that they form an 'Infinite Loop of Betterness'. In 虫拳 (Mushi-ken) this loop is formed by valuing the hand signals as follows:</p>
+                                            <p>In 虫拳 (Mushi-ken) (ken (literally 'fist', 'grip', 'force' or 'strike') (拳) of the small animals, one of the games of 三竦み拳 ('sansukumi-ken', ken (literally 'fist', 'grip', 'force' or 'strike') (拳) of the three who are afraid of one another)) each participant shows one of the three hand signals after a synchronized countdown, which consists of one to three pre-steps (i.e. 1-signal to 3-2-1-signal), has elapsed. It is essential for the flow of the game for all participants (1) to know the number of pre-steps, for them to be certain, on which count the signal shall be released and (2) then to be in the same rhythm before the handsigns are signalled. If at any time the players are not in synch with their pre-steps (primes), it is recommended to restart the game, since having players deliver their throw at the same time is critical in ensuring a fair match. For fairness of the play, it is recommended to agree on the number of rounds to be played before the playing begins, so that each participant will know whether the outcome will be decided in one go or whether the game is in a tournament mode (best out of [uneven_number_of_rounds]). The released hand signs each have an inherent value in which one sign will always be better than the released hand sign and another hand sign will be worse than the released hand sign – furthermore it is ordained that all the signs together are valued successively so that they form an 'Infinite Loop of Betterness'. In 虫拳 (Mushi-ken) this loop is formed by valuing the hand signals as follows:</p>
                                             <ol>
                                                 <table>
                                                     <tr>
@@ -362,12 +362,12 @@
                                                         </tr>
                                                     </table>
                                                 </p>
-                                            </ol>                                            
+                                            </ol>
                                             <p>In 虫拳 (Mushi-ken) ties, where the participants show the same hand signal as a result, per se, cannot be broken, but the occured 'Tie-Break Situation' is usually resolved by playing another round of 虫拳 (Mushi-ken) immediately after the existence of 'Tie-Break Situation' has been confirmed.</p></td>
                                    </tr>
                                    <tr>
                                         <td style="padding:6px"><strong></strong></td>
-                                        <td style="padding:6px"><p>In 虫拳 (Mushi-ken) the signal code language differs from its Western counterparts, and in 虫拳 (Mushi-ken) it is customary to use the little (pinky) finger when signalling the なめくじ (蛞蝓) Slug (namekuji), the index finger when signalling the へび (蛇) Snake (hebi) and the thumb when signalling the かわず (蛙) Frog (kawazu (modern: かえる kaeru)). Movements are performed very quickly, and the game is usually played until three or five wins. The game is customarily played only with right hand while the left hand was used to count the wins. The participants could also follow the alternated ritus of Jan-ken Style, where both participants start by saying 'Saisho (wa) guu' (Starting with a rock), and after holding out a closed fist raise their primary hand slightly, and follow it with 'janken pon!' simultaneously throwing out their move, whether it's a slug, snake or frog. If there's a tie (a draw or 'aiko', if both participants chose the same move), they say 'Aiko desho!' (It seems like a tie!) and repeat the ritual 'Saisho guu, janken pon' in an almost trance-like rapid-fire succession until one player (finally) wins. Source: <a href="https://japandaily.jp/decision-making-powers-janken-2626/">The Decision-Making Powers of Janken</a> & <a href="https://books.google.com/books?id=k_Cb7a6FQwwC&pg=PA325">The Culture of Japan as Seen through Its Leisure</a>.</p></td>
+                                        <td style="padding:6px"><p>In 虫拳 (Mushi-ken) the signal code language differs from its Western counterparts, and in 虫拳 (Mushi-ken) it is customary to use the little (pinky) finger when signalling the なめくじ (蛞蝓) Slug (namekuji), the index finger when signalling the へび (蛇) Snake (hebi) and the thumb when signalling the かわず (蛙) Frog (kawazu (modern: かえる kaeru)). Movements are performed very quickly, and the game is usually played until three or five wins. The game is customarily played only with right hand while the left hand was used to count the wins. The participants could also follow the alternated ritus of Jan-ken Style, where both participants start by saying 'Saisho (wa) guu' (Starting with a rock), and after holding out a closed fist raise their primary hand slightly, and follow it with 'janken pon!' simultaneously throwing out their move, whether it's a slug, snake or frog. If there's a tie (a draw or 'aiko', if both participants chose the same move), they say 'Aiko desho!' (It seems like a tie!) and repeat the ritual 'Saisho guu, janken pon' in an almost trance-like rapid-fire succession until one player (finally) wins. Source: <a href="https://japandaily.jp/decision-making-powers-janken-2626/">The Decision-Making Powers of Janken</a> & <a href="http://woodblockprints.org/index.php/Detail/Entity/Show/entity_id/618">Genre: ken (拳) in Japanese Woodblock Prints</a> & <a href="https://books.google.com/books?id=k_Cb7a6FQwwC&pg=PA325">The Culture of Japan as Seen through Its Leisure</a>.</p></td>
                                     </tr>
                                 </table>
                             </p>
@@ -738,7 +738,8 @@
     <tr>
         <th></th>
         <td style="padding:6px">
-            <h4>手勢令 (Shoushiling, literally: 'hand command') – Chinese</h4>
+            <h4>手勢令 (Shoushiling or 'shǒushìlìng', literally: 'hand command') – Chinese</h4>
+            <p>The origin of <i>ken</i> (literally 'fist', 'grip', 'force' or 'strike'), and the activities and popular beliefs with which its spread were associated, are unknown. While some suppose that the <i>ken</i> tradition goes back to the Zhōu period (1046–256 BC), and others believe that <i>ken</i> was played in China during the Hàn (206 BC – AD 220) and Táng times (AD 618–907) under various names, it seems that the usage of <i>ken</i> somehow just appeared in the Sung period (AD 960–1279). <i>Ken</i> is thought to have been concieved as a competitive game or a form of gambling, and with the passing of the ages many different <i>ken</i> games arose.</p>
             <ol>
                 <p>
                     <table>
@@ -807,7 +808,7 @@
                     <td style="padding:6px"><a href="http://primaltrek.com/impliedmeaning.html">The Hidden or Implied Meaning of Chinese Charm Symbols</a></td>
                 </tr>
                 <tr>
-                    <th rowspan="5"></th>
+                    <th rowspan="6"></th>
                     <td style="padding:6px"><a href="http://primaltrek.com/fivepoisons.html">The Five Poisons</a></td>
                 </tr>
                 <tr>
@@ -815,6 +816,9 @@
                 </tr>
                 <tr>
                     <td style="padding:6px"><a href="http://www.internationalscientific.org/CharacterEtymology.aspx?submitButton1=Etymology&characterInput=%E8%9C%88">Chinese Etymology</a></td>
+                </tr>
+                <tr>
+                    <td style="padding:6px"><a href="https://web.archive.org/web/20050425082051/http://www.jbrowse.com/text/janken.shtml">Jan Ken Pon - Some Historical Data</a></td>
                 </tr>
                 <tr>
                     <td style="padding:6px"><a href="http://www.historyofemotions.org.au/media/230620/2015-zest-education-pack-final-web-version.pdf">The Zest Festival – Chinese Games</a></td>
@@ -841,7 +845,14 @@
     <tr>
         <th></th>
         <td style="padding:6px">
-            <h4>虫拳 (Mushi-ken) (ken ('fist') of the small animals, one of the games of 三竦み拳 ('sansukumi-ken', ken ('fist') of the three who are afraid of one another)) – Japanese</h4>
+            <h4>虫拳 (Mushi-ken) (ken (literally 'fist', 'grip', 'force' or 'strike') (拳) of the small animals, one of the games of 三竦み拳 ('sansukumi-ken', ken (literally 'fist', 'grip', 'force' or 'strike') (拳) of the three who are afraid of one another)) – Japanese</h4>
+            <p>Mushi-ken has been played in Okinawa and Amami until recently under the name of <i>busa</i>. Mushi-ken also seems to be one of the oldest forms of <i>ken</i> (拳) to have come to Japan from China, and is usually played with the right hand only. The earliest Japanese forms of the <i>ken</i> game (拳), known generically as 'mushi-ken', are attributed to the Nara (AD 710–794) and Heian (AD 794–1185) periods. There is iconographic evidence for it from the early 14th century AD (from <i>Ishiyamadera engi emaki</i>), and under Chinese influence it started to become immensely popular in urban circles in the middle of the eighteenth century AD.</p>
+            <p>Sansukumi is expounded in the book called the <i>Kan'inshi</i>, which describes how the snake fears the slug, the slug fears the frog, and the frog fears the snake. Each of the three parties holds the others in check, so that the three cannot move – in short, this is the same relationship as between rock (<i>guu</i>), paper (<i>paa</i>), and scissors (<i>choki</i>) in <i>jan-ken</i>, which was developed in a later stage, perhaps in late nineteenth century AD. The <i>kens</i> of the Edo period (AD 1603–1868) included for instance </i>shouya-ken</i> and </i>mushi-ken</i>.</p>
+            <p>From the Genroku (AD 1688–1704) to the Bunsei period (AD 1818–1830), however, a <i>ken</i> (拳) which was called the 'original ken' (<i>hon-ken</i>) or 'numbers-ken' (<i>kazu-ken</i>) was the main <i>ken</i> (拳) played in Japan. In this <i>hon-ken</i> two people sit opposite each other and show a certain number with their right hands, while shouting the expected sum of the numbers shown by both players. If both players shout the wrong number or if both players shout the correct combined sum (of the numbers shown by both players) as a result, the outcome is a draw or <i>aiko</i>. The one, who shouts the correct combined sum (of the numbers indicated by both players (and the other player guessed wrongly in the same round)), wins. The left hands are used to count the respective wins.</p>
+            <p>The Japanese had a special way of calling out the numbers, however, since in the eighteenth-century AD the Japanese players called the numbers in Chinese or in what they thought to be Chinese. As a result they did not shout "<i>ichi, ni, san</i>" or "<i>hitotsu, jutatsu, mittsu</i>" in accordance with the usual Japanese way for saying "one, two or three". Instead they counted "<i>ikkō, ryan, sanna</i>" and everybody who wanted to join in this game had to study these numbers before he could start to participate. Since the name of this ken-game means 'original ken' it could be assumed that it came to Japan among the earliest 'sansukumi-ken' or even earlier. According to <b>Shogakukan</b>'s '<i>Nihonkokugodaijiten</i>' dictionary, ken (拳) arrived in Kyuushuu in AD 1642, spread to the Osaka area by around the Edo period (AD 1603–1868), and spread to Edo (now Tokyo) by about the Kyouhou period (i.e. about the AD 1720s). Because it first arrived in Nagasaki, it was sometimes called 'nagasakiken' or 'kiyouken' (Kiyou being the old name for Nagasaki).</p>
+            <p>In <i>hon-ken</i>, if one points the thumb alone, it counts for 'one' (<i>ikkō</i>), opening the thumb and forefinger together counts 'two' (<i>ryan</i>), pointing the other three fingers together counts 'three' (<i>san</i>), opening four fingers together, but keeping the thumb curled up, counts 'four' (<i>sū</i>), opening all five digits together counts 'five' (<i>go</i>) and closing the fist completely counts 'six' (<i>mui</i>). In addition to this, calls for higher numbers are used: 'seven' (<i>chie</i>); 'eight' (<i>pama</i>); 'nine' (<i>kwai</i>); 'ten' (<i>tōrai</i>; and, in the original game but already obsolete by AD 1830, 'zero' (<i>mu</i>). The calls are all in Tō-on pronunciation, and <i>Ken Hitori Keiko</i> gives several alternative calls for each number. Ōta Nanpo, in <i>Hannichi Kanwa</i>, illustrates gestures and calls from a manual published in AD 1746, and together with his friends he even devised a kind of <i>kazu-ken</i>, which he describes in <i>Shichi-ken Zushiki</i> in AD 1779.</p>
+            <p>The two players in <i>hon-ken</i> are known as <i>kō</i> and <i>otsu</i>. Each makes a gesture with his right hand, and a call which is his guess at the sum of his move and his opponent's. If both guess right or if neither does, the result is inconclusive – otherwise one player wins the round, and keeps his score (<i>kazutori</i>) on the fingers of his left hand. Usually a game consists of ten rounds.</p>
+            </p>
             <h4>虫拳 (Mushi-ken) – Japanese</h4>
             <ol>
                 <p>
@@ -881,13 +892,108 @@
                     </table>
                 </p>
             </ol>
+            <h4><i>Hon-ken</i> – A Japanese Game with custom Chinese Vocabulary</h4>
+            <ol>
+                <p>
+                    <table>
+                        <tr>
+                            <td style="padding:6px">One</td>
+                            <td style="padding:6px"><i>ikkō</i></td>
+                            <td style="padding:6px">1</td>
+                            <td style="padding:6px">一</td>
+                            <td style="padding:6px">壹</td>
+                            <td style="padding:6px">壱</td>                            
+                        </tr>
+                        <tr>
+                            <td style="padding:6px">Two</td>
+                            <td style="padding:6px"><i>ryan</i></td>
+                            <td style="padding:6px">2</td>
+                            <td style="padding:6px">二</td>
+                            <td style="padding:6px">貳</td>
+                            <td style="padding:6px">弐</td>                             
+                        </tr>
+                        <tr>
+                            <td style="padding:6px">Three</td>
+                            <td style="padding:6px"><i>san</i></td>
+                            <td style="padding:6px">3</td>
+                            <td style="padding:6px">三</td>
+                            <td style="padding:6px">參</td>
+                            <td style="padding:6px">参</td>                             
+                        </tr>
+                        <tr>
+                            <td style="padding:6px">Four</td>
+                            <td style="padding:6px"><i>sū</i></td>
+                            <td style="padding:6px">4</td>
+                            <td style="padding:6px">四</td>
+                            <td style="padding:6px">肆</td>
+                            <td style="padding:6px">四</td>                             
+                        </tr>
+                        <tr>
+                            <td style="padding:6px">Five</td>
+                            <td style="padding:6px"><i>go</i></td>
+                            <td style="padding:6px">5</td>
+                            <td style="padding:6px">五</td>
+                            <td style="padding:6px">:伍</td>
+                            <td style="padding:6px">五</td>                             
+                        </tr>
+                        <tr>
+                            <td style="padding:6px">Six</td>
+                            <td style="padding:6px"><i>mui</i></td>
+                            <td style="padding:6px">6</td>
+                            <td style="padding:6px">六</td>
+                            <td style="padding:6px">陸</td>
+                            <td style="padding:6px">六</td>                             
+                        </tr>
+                        <tr>
+                            <td style="padding:6px">Seven</td>
+                            <td style="padding:6px"><i>chie</i></td>
+                            <td style="padding:6px">7</td>
+                            <td style="padding:6px">七</td>
+                            <td style="padding:6px">柒</td>
+                            <td style="padding:6px">七</td>                             
+                        </tr>
+                        <tr>
+                            <td style="padding:6px">Eight</td>
+                            <td style="padding:6px"><i>pama</i></td>
+                            <td style="padding:6px">8</td>
+                            <td style="padding:6px">八</td>
+                            <td style="padding:6px">捌</td>
+                            <td style="padding:6px">八</td>                             
+                        </tr>
+                        <tr>
+                            <td style="padding:6px">Nine</td>
+                            <td style="padding:6px"><i>kwai</i></td>
+                            <td style="padding:6px">9</td>
+                            <td style="padding:6px">九</td>
+                            <td style="padding:6px">玖</td>
+                            <td style="padding:6px">九</td>                             
+                        </tr>
+                        <tr>
+                            <td style="padding:6px">Ten</td>
+                            <td style="padding:6px"><i>tōrai</i></td>
+                            <td style="padding:6px">10</td>
+                            <td style="padding:6px">十</td>
+                            <td style="padding:6px">拾</td>
+                            <td style="padding:6px">拾</td>                             
+                        </tr>
+                        <tr>
+                            <td style="padding:6px">Zero</td>
+                            <td style="padding:6px"><i>mu</i></td>
+                            <td style="padding:6px">0</td>
+                            <td style="padding:6px">零</td>
+                            <td style="padding:6px">Obsolete within the game by AD 1830</td>
+                            <td style="padding:6px">asdf</td>                             
+                        </tr>
+                    </table>
+                </p>
+            </ol>
             <table>
                 <tr>
                     <th>Source</th>
                     <td style="padding:6px"><a href="http://jisho.org/word/%E8%9B%9E%E8%9D%93">Slug</a></td>
                 </tr>
                 <tr>
-                    <th rowspan="8"></th>
+                    <th rowspan="11"></th>
                     <td style="padding:6px"><a href="http://jisho.org/word/%E8%9B%99">Frog</a></td>
                 </tr>
                 <tr>
@@ -907,6 +1013,15 @@
                 </tr>
                 <tr>
                     <td style="padding:6px"><a href="https://books.google.com/books?id=k_Cb7a6FQwwC&pg=PA325">The Culture of Japan as Seen through Its Leisure</a></td>
+                </tr>
+                <tr>
+                    <td style="padding:6px"><a href="http://www.chinatravel.com/facts/chinese-lucky-numbers.htm">Chinese Lucky Numbers</a></td>
+                </tr>
+                <tr>
+                    <td style="padding:6px"><a href="https://web.archive.org/web/20050425082051/http://www.jbrowse.com/text/janken.shtml">Jan Ken Pon - Some Historical Data</a></td>
+                </tr>
+                <tr>
+                    <td style="padding:6px"><a href="http://woodblockprints.org/index.php/Detail/Entity/Show/entity_id/618">Genre: ken (拳) in Japanese Woodblock Prints</a></td>
                 </tr>
                 <tr>
                     <td style="padding:6px"><a href="https://minpaku.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=3017&item_no=1&page_id=13&block_id=21">Some Thoughts on the Ken Game in Japan: From the Viewpoint of Comparative Civilization Studies</a></td>
@@ -996,20 +1111,35 @@
                     </ol>
                 </ol>
             </ol>
-            <p>In fact, '<i>Micare Digitis</i>' became so deeply enrooted in the cultural landscape of Rome, that traces of its usage found its way into legal binding documents, such as an edict listed below concerning the validation of a transaction (dating perhaps AD 339, when Lucius Turcius Apronianus (father) or AD 363-4, when Lucius Turcius Apronianus, signo Asterius (son) was a Praefectus Urbi (of the city of Rome))...</p>
+            <p>In fact, '<i>Micare Digitis</i>' became so deeply enrooted in the cultural landscape of Rome, that traces of its usage found its way into legal binding documents, such as an edict listed below (dating perhaps AD 339, when Lucius Turcius Apronianus (father) or AD 363-4, when Lucius Turcius Apronianus, signo Asterius (son) was a Praefectus Urbi (of the city of Rome)), which tried to suppress the usage of 'micare digitis' within the city of Rome when determining the final price of the meat being sold.</p>
+            <p>In Greece, the butchers sold meat based on weight, and made use of different weights, balances and scales. In Rome, things were bit different, since the price of the meat wasn't fixed to weight – instead the final price was "negotiated" between the butcher and the customer in each transaction in a game-like fashion. When the buyer was happy with the goods and there was a discrepancy on the subject of price, the buyer closed one of his/her hands and the seller also closed one of his/her hands. Then each opened their closed hand and extended a number of fingers, if any. If the sum of the fingers was a pair, the piece of meat was sold on the price the seller asked; if instead the sum of the total fingers shown was odd, the buyers view of the price would be followed. This mode of buying and selling didn't work very well in practice even with the "help" of dedicated officers in place. This edict is engraved on a marble table, and was in display in Rome in the Vatican palace in the 18th century...</p>
             <ol>
                 <ol>
                     <ol>
                         <ol>
                             <ol>
                                 <blockquote>
-                                    <p><i>Ex auctoritate Turci Aproniani v(iri) c(larissimi), Praefecti Urbis. Ratio docuit utilitate suadente, consuetudine micandi summota sub exagio potius pecora vendere, quam digitis conludentibus [concludentibus] tradere,...</i>
+                                    <p><i>Ex auctoritate Turci Aproniani v(iri) c(larissimi), Praefecti Urbis. Ratio docuit utilitate suadente, consuetudine micandi summota, sub exagio potius pecora vendere, quam digitis conludentibus [concludentibus] tradere, et adpenso pecore, capite, pedibus et sevo lactante et subgulari lanio cedentibus, reliqua caro cum pelle et iteraneis proficiat venditori, sub conspectu publico fide ponderis conprobata [comprobata], ut quantum caro occisi pecoris adpendat, et emptor norit et venditor, commodis omnibus et praeda damnata, quam tribunus officium cancellarius et scriba de pecuariis capere consueverant: quae forma interdicti et dispositionis, sub gladii periculo perpetuo, custodienda mandatur.</i>
                                     </p>
                                     <p>
                                         (Inscr. Orell. 3166) <b>Johann Caspar Orelli</b> (c. AD 1787–1849): 'Inscriptionum Latinarum selectarum amplissima collectio', 3166. Ad Illustrandam Romanae Antiquitatis by Johann Caspar von Orellius, Wilhelm Henzen. Published 1828. or 'Orellii inscriptionum Latinarum selectarum collectio', 3166: Turici 1828.
                                         <br /><a href="https://archive.org/details/inscriptionumla01henzgoog">'Orellii Inscriptionum Latinarum selectarum amplissima collectio', 3166.</a> (Latin)
                                         <br /><a href="https://ia902608.us.archive.org/21/items/inscriptionumla01henzgoog/inscriptionumla01henzgoog.pdf">'Orellii Inscriptionum Latinarum selectarum amplissima collectio', 3166.</a> (PDF, 26.1 MB) (Latin)
                                         <br />Corpus Inscriptionum Latinarum: <a href="http://arachne.uni-koeln.de/item/buchseite/580887">CIL VI 1770</a> (Latin)
+                                        <br />Denis Diderot et, partiellement, Jean le Rond D'Alembert: <a href="https://fr.wikisource.org/wiki/Page:Diderot_-_Encyclopedie_1ere_edition_tome_2.djvu/356">Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers (Vol 2), tome 2.djvu/356</a> (1751–1772) (French)
+                                        <br />And concerning Lucius Turcius Apronianus: <a href="http://www.keytoumbria.com/Umbria/4th_Century__Inscriptions_Later_Latin.html">Inscribed base of a statue from Spoleto (346 AD)</a> (Latin) (Corpus Inscriptionum Latinarum (CIL) <a href="http://cil.bbaw.de/cil_en/dateien/db_eng.php?nummer=VI+1768&andor=AND&nummer2=&fundort_antik=&fundort_modern=&provinz=">VI 1768</a> (Bibliography) or <a href="http://laststatues.classics.ox.ac.uk/database/discussion.php?id=1841">LSA 1467</a> (Latin and English) The base is now in the Musei Capitolini, Rome.
+                                    </p>
+                                </blockquote>
+                                </blockquote>
+                                <h4>Translation</h4>
+                                <blockquote>
+                                    <p>By the authority of Turcius Apronianus, the most famous man, Praefecti Urbis. The reason has taught and the general usefulness urges to withhold of using 'micare digitis' in the sale of cattle, and to use a certain weigh when selling the animal rather than to conclude (the final prize) with fingers. After the animal has been weighed the head, feet and tallow [lactante et subgulari] is given to the butcher as his share (salary), and the rest of the meat including the skin and guts profit the seller. And under the observance of the public eye sanctioned weights should be used, so that both the buyer and the seller know, how much the meat of the slain animals weigh, to the convenience of everybody. (It is also ordained) to withhold of collecting any extra expenses [lit. 'loot'], which tribune with its secretarial office and the scribe of the cattle had been accustomed to seize: These in forms of an action or actions are commanded forbiden, under the perpetual danger of the sword.</p>
+                                    <p>
+                                        (Inscr. Orell. 3166) <b>Johann Caspar Orelli</b> (c. AD 1787–1849): 'Inscriptionum Latinarum selectarum amplissima collectio', 3166. Ad Illustrandam Romanae Antiquitatis by Johann Caspar von Orellius, Wilhelm Henzen. Published 1828. or 'Orellii inscriptionum Latinarum selectarum collectio', 3166: Turici 1828.
+                                        <br /><a href="https://archive.org/details/inscriptionumla01henzgoog">'Orellii Inscriptionum Latinarum selectarum amplissima collectio', 3166.</a> (Latin)
+                                        <br /><a href="https://ia902608.us.archive.org/21/items/inscriptionumla01henzgoog/inscriptionumla01henzgoog.pdf">'Orellii Inscriptionum Latinarum selectarum amplissima collectio', 3166.</a> (PDF, 26.1 MB) (Latin)
+                                        <br />Corpus Inscriptionum Latinarum: <a href="http://arachne.uni-koeln.de/item/buchseite/580887">CIL VI 1770</a> (Latin)
+                                        <br />Denis Diderot et, partiellement, Jean le Rond D'Alembert: <a href="https://fr.wikisource.org/wiki/Page:Diderot_-_Encyclopedie_1ere_edition_tome_2.djvu/356">Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers (Vol 2), tome 2.djvu/356</a> (1751–1772) (French)
                                         <br />And concerning Lucius Turcius Apronianus: <a href="http://www.keytoumbria.com/Umbria/4th_Century__Inscriptions_Later_Latin.html">Inscribed base of a statue from Spoleto (346 AD)</a> (Latin) (Corpus Inscriptionum Latinarum (CIL) <a href="http://cil.bbaw.de/cil_en/dateien/db_eng.php?nummer=VI+1768&andor=AND&nummer2=&fundort_antik=&fundort_modern=&provinz=">VI 1768</a> (Bibliography) or <a href="http://laststatues.classics.ox.ac.uk/database/discussion.php?id=1841">LSA 1467</a> (Latin and English) The base is now in the Musei Capitolini, Rome.
                                     </p>
                                 </blockquote>
@@ -1122,7 +1252,7 @@
                                         <br /><a href="https://web.archive.org/web/20110929193309/http://sites.univ-lyon2.fr/lesmondeshumanistes/wp-content/uploads/2010/09/Adages-tome-1.pdf">Les Adages D'Érasme, Tome I</a> (PDF, 5 MB, <a href="https://web.archive.org/web/20110619002744/http://sites.univ-lyon2.fr:80/lesmondeshumanistes/category/adages-erasme/">other parts</a> or <a href="https://web.archive.org/web/20120114123112/http://sites.univ-lyon2.fr/lesmondeshumanistes/wp-content/uploads/Adages.pdf">all Adages</a> (PDF, 14 MB with 2606 pages) (Latin)
                                         <br /><a href="http://www.andreascenter.org/Articles/Erasmus.htm">Erasmus</a>
                                         <br /><a href="http://quod.lib.umich.edu/e/eebo/A38569.0001.001/1:2?rgn=div1;view=fulltext">The Life of Erasmus</a> Published 1699.
-                                    </p>                                    
+                                    </p>
                                 </blockquote>
                             </ol>
                         </ol>
@@ -1254,11 +1384,12 @@
                         <ol>
                             <ol>
                                 <blockquote>
-                                    <p>a game of chance, combined with skill, still common in the south of Italy, where it now goes by the name of <i>Morra</i>. (Varro. ap. Non. s. v. p. 547. Calpurn. Ed. ii. 26.) It is played by two persons in the following manner. Both hold up their right hands with the fist closed; they then simultaneously extend a certain number of their fingers, calling out at the same time by guesswork the collective number extended by the two together, and he who succeeds in naming the right number wins the game. The <a href="http://www.archive.org/stream/adictionaryroma00richgoog#page/n429/mode/2up">annexed figures</a>, representing a couple of <b>Egyptians</b> playing at <i>morra</i> from a painting in the tombs, testify the very great antiquity of the game, and will serve to convey a distinct notion of the manner in which it was conducted to those who have never seen it played. It is the same as that still practised, with the exception that the performers are in a sitting instead of a standing posture, as is now usual; and that they appear to make use of all their fingers, instead of the right hand only, which must have greatly increased the difficulty and intricacy of the game, as it admits the various combinations which might be made out of twenty numbers instead of ten only. The right-hand figure has extended <i>all</i> the fingers of his right hand, and <i>three</i> of his left; his opponent puts out <i>two</i> with the right hand, and <i>three</i> on the left one; thus the number exhibited is thirteen. If either of the parties cry out "thirteen" at the moment of opening their hands, but before the opened fingers are actually displayed, he wins; if neither succeeds in guessing right, they again close their hands, cry out a number, and open the fingers until one of them calls the right amount. What appears to be so simple is most difficult to execute with any chance of success, and requires more skill and calculation than a person, who had not himself made the experiment, would imagine.
+                                    <p>a game of chance, combined with skill, still common in the south of Italy, where it now goes by the name of <i>Morra</i>. (Varro. ap. Non. s. v. p. 547. Calpurn. Ed. ii. 26.) It is played by two persons in the following manner. Both hold up their right hands with the fist closed; they then simultaneously extend a certain number of their fingers, calling out at the same time by guesswork the collective number extended by the two together, and he who succeeds in naming the right number wins the game. The <a href="http://www.archive.org/stream/adictionaryroma00richgoog#page/n429/mode/2up">annexed figures</a>, representing a couple of <b>Egyptians</b> playing at <i>morra</i> from a painting in the tombs [modelled perhaps after one of the wall paintings of Beni Hassan and such figures could perhaps be found in some wall painting at Thebes, too], testify the very great antiquity of the game, and will serve to convey a distinct notion of the manner in which it was conducted to those who have never seen it played. It is the same as that still practised, with the exception that the performers are in a sitting instead of a standing posture, as is now usual; and that they appear to make use of all their fingers, instead of the right hand only, which must have greatly increased the difficulty and intricacy of the game, as it admits the various combinations which might be made out of twenty numbers instead of ten only. The right-hand figure has extended <i>all</i> the fingers of his right hand, and <i>three</i> of his left; his opponent puts out <i>two</i> with the right hand, and <i>three</i> on the left one; thus the number exhibited is thirteen. If either of the parties cry out "thirteen" at the moment of opening their hands, but before the opened fingers are actually displayed, he wins; if neither succeeds in guessing right, they again close their hands, cry out a number, and open the fingers until one of them calls the right amount. What appears to be so simple is most difficult to execute with any chance of success, and requires more skill and calculation than a person, who had not himself made the experiment, would imagine.
                                     <br />
                                     <br />Each player has first to settle in his own mind how many fingers he will show; then to surmise how many his opponent is likely to put up, which he does by observing his usual style of play, by remembering the numbers he last called, and those he last showed; he then adds these to his own, and calls the collective number, thus endeavouring to make the number which he calls. But as all this which takes so much time in narrating, is actually done with the greatest rapidity, the hands being opened and closed, and the numbers simultataneously called as fast as one can pronounce them — eight, two, six, ten — it requires great readiness of intellect and decision of purpose, for a player to have any chance of winning, as well as a quick eye and acute observation, to see in a moment the aggregate number of fingers shown, so at not to overlook his own success; nor, on the other hand, suffer himself to be imposed upon by a more astute opponent.</p>
                                     <p>
                                         <b>Anthony Rich:</b> <a href="http://www.archive.org/stream/adictionaryroma00richgoog#page/n429/mode/2up">A Dictionary of Roman and Greek Antiquities: Micatio or digitis micare, page 422–423</a> with Nearly 2000 Engravings on Wood from Ancient Originals. Published 1884 or 1893. (<a href="https://archive.org/download/adictionaryroma00richgoog/adictionaryroma00richgoog.pdf">PDF</a>, 38.8 MB or a <a href="https://archive.org/stream/adictionaryroma00richgoog/adictionaryroma00richgoog_djvu.txt">txt-file</a>)
+                                        <br /><a href="http://www.gutenberg.org/files/19995/19995-h/19995-h.htm">The Atlantic Monthly. A Magazine Of Literature, Art, And Politics (Vol. V). February,1860, no. XXVIII: Roba di Roma (Games in Rome)</a>
                                     </p>
                                 </blockquote>
                             </ol>
@@ -1266,7 +1397,7 @@
                     </ol>
                 </ol>
             </ol>
-            <p>In its rich history '<i>Micare Digitis</i>' has had a wide cultural impact, which is demonstrated to us, for instance, by J.J.M. de Groot, since when discussing the annual festivals celebrated in Émoi he makes a remark that '<i>Micare Digitis</i>' with the identical set of rules is also known in China by the name '<i>hoah-koûn</i>' («crier le poing» or "shout fist"):</p>
+            <p>In its rich history '<i>Micare Digitis</i>' has had a wide cultural impact, which is demonstrated to us, for instance, by J.J.M. de Groot, since when discussing the annual festivals celebrated in Émoi he makes a remark that '<i>Micare Digitis</i>' with the identical set of rules is also known in China by the name '<i>hoah-koûn</i>' («crier le poing» or "shout fist"), and, as noted earlier, in Japan, a game with a similar ruleset to that of '<i>Micare Digitis</i>' was called the 'original ken' (<i>hon-ken</i>) or the 'numbers-ken' (<i>kazu-ken</i>) and was the main <i>ken</i> (拳) played in Japan from the Genroku period (AD 1688–1704) to the Bunsei period (AD 1818–1830):</p>
             <ol>
                 <ol>
                     <ol>
@@ -1277,6 +1408,7 @@
                                     </p>
                                     <p>
                                         <b>J.J.M. de Groot</b> <a href="http://lenculus.mirror.k0nsl.org/___Collection%20Chine%20ancienne__%20473__/Groot%2C%20J.%20J.%20M%20de%20-%20Les%20f%C3%AAtes%20annuellement%20c%C3%A9l%C3%A9br%C3%A9es%20%C3%A0%20%C3%89moui.%20Les%20deux%20volumes%20en%20un.pdf">'Les Fêtes Annuellement Célébrées à Émoui', page 496.</a> Published 1886, reprint 1977. (PDF, 7.5 MB) (French)
+                                        <br /><a href="https://minpaku.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=3017&item_no=1&page_id=13&block_id=21">Some Thoughts on the Ken Game in Japan: From the Viewpoint of Comparative Civilization Studies</a>
                                     </p>
                                 </blockquote>
                             </ol>
