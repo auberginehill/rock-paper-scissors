@@ -85,7 +85,7 @@
     </tr>
     <tr>
         <td style="padding:6px"><strong>Downloads:</strong></td>
-        <td style="padding:6px">For instance <a href="https://raw.githubusercontent.com/auberginehill/rock-paper-scissors/master/rock-paper-scissors.ps1">Rock-Paper-Scissors.ps1</a>. Or <a href="https://github.com/auberginehill/rock-paper-scissors/archive/master.zip">everything as a .zip-file</a>.</td>
+        <td style="padding:6px">For instance <a href="https://raw.githubusercontent.com/auberginehill/rock-paper-scissors/master/Rock-Paper-Scissors.ps1">Rock-Paper-Scissors.ps1</a>. Or <a href="https://github.com/auberginehill/rock-paper-scissors/archive/master.zip">everything as a .zip-file</a>.</td>
     </tr>
 </table>
 
